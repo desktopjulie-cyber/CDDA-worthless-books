@@ -6,7 +6,6 @@
     "authors": [ "J32" ],
     "description": "Reduces the trade value of all books to zero.",
     "category": "rebalance",
-    "dependencies": [ "dda" ],
     "path": ""
   }
 ]
