@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "mycenacean_hymns",
+    "copy-from": "mycenacean_hymns",
+    "type": "ITEM",
+    "name": {
+      "str": "Mycenacean Hymns",
+      "str_pl": "copies of Mycenacean Hymns"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_bible1",
+    "copy-from": "holybook_bible1",
+    "type": "ITEM",
+    "name": {
+      "str": "King James Bible",
+      "str_pl": "copies of the King James Bible"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_bible2",
+    "copy-from": "holybook_bible2",
+    "type": "ITEM",
+    "name": {
+      "str": "Eastern Orthodox Bible",
+      "str_pl": "copies of the Eastern Orthodox Bible"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_bible3",
+    "copy-from": "holybook_bible3",
+    "type": "ITEM",
+    "name": {
+      "str": "Gideon Bible",
+      "str_pl": "copies of the Gideon Bible"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_bible4",
+    "copy-from": "holybook_bible4",
+    "type": "ITEM",
+    "name": {
+      "str": "New American Bible",
+      "str_pl": "copies of the New American Bible"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_bible5",
+    "copy-from": "holybook_bible5",
+    "type": "ITEM",
+    "name": {
+      "str": "The New World Translation of the Holy Scriptures",
+      "str_pl": "copies of the New World Translation of the Holy Scriptures"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_bible6",
+    "copy-from": "holybook_bible6",
+    "type": "ITEM",
+    "name": {
+      "str": "Holman Christian Bible",
+      "str_pl": "copies of the Holman Christian Bible"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_bible7",
+    "copy-from": "holybook_bible7",
+    "type": "ITEM",
+    "name": {
+      "str": "Douay-Rheims Bible",
+      "str_pl": "copies of the Douay-Rheims Bible"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_bible8",
+    "copy-from": "holybook_bible8",
+    "type": "ITEM",
+    "name": {
+      "str": "Orthodox Tewahedo Biblical Canon",
+      "str_pl": "copies of the Orthodox Tewahedo Biblical Canon"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_bible9",
+    "copy-from": "holybook_bible9",
+    "type": "ITEM",
+    "name": {
+      "str": "The Holy Piby",
+      "str_pl": "copies of The Holy Piby"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_biblechild_c",
+    "copy-from": "holybook_biblechild_c",
+    "type": "ITEM",
+    "name": {
+      "str": "Children's Catholic Bible",
+      "str_pl": "copies of a Children's Catholic Bibles"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_biblechild_p",
+    "copy-from": "holybook_biblechild_p",
+    "type": "ITEM",
+    "name": {
+      "str": "Children's Protestant Bible",
+      "str_pl": "copies of a Children's Protestant Bibles"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_catechism",
+    "copy-from": "holybook_catechism",
+    "type": "ITEM",
+    "name": {
+      "str": "The Common Catechism",
+      "str_pl": "copies of The Common Catechism"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_catechism1",
+    "copy-from": "holybook_catechism1",
+    "type": "ITEM",
+    "name": {
+      "str": "Catechism of The Catholic Church",
+      "str_pl": "copies of the Catechism of The Catholic Church"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_catechism2",
+    "copy-from": "holybook_catechism2",
+    "type": "ITEM",
+    "name": {
+      "str": "Westminster Catechism",
+      "str_pl": "copies of the Westminster Catechism"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_catechism3",
+    "copy-from": "holybook_catechism3",
+    "type": "ITEM",
+    "name": {
+      "str": "Luther's Catechism",
+      "str_pl": "copies of the Luther's Catechism"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_catechismbudda",
+    "copy-from": "holybook_catechismbudda",
+    "type": "ITEM",
+    "name": {
+      "str": "Buddhist Catechism",
+      "str_pl": "copies of the Buddhist Catechism"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_catechismmuslim",
+    "copy-from": "holybook_catechismmuslim",
+    "type": "ITEM",
+    "name": {
+      "str": "Safinatun Najah",
+      "str_pl": "copies of the Safinatun Najah"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_catechism5",
+    "copy-from": "holybook_catechism5",
+    "type": "ITEM",
+    "name": {
+      "str": "Heidelberg Catechism",
+      "str_pl": "copies of the Heidelberg Catechism"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_catechism6",
+    "copy-from": "holybook_catechism6",
+    "type": "ITEM",
+    "name": {
+      "str": "Philaret Catechism",
+      "str_pl": "copies of the Philaret Catechism"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_catechism7",
+    "copy-from": "holybook_catechism7",
+    "type": "ITEM",
+    "name": {
+      "str": "Keach's Catechism",
+      "str_pl": "copies of the Keach's Catechism"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_catechism8",
+    "copy-from": "holybook_catechism8",
+    "type": "ITEM",
+    "name": {
+      "str": "Pentecostal Catechism",
+      "str_pl": "copies of the Pentecostal Catechism"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_dort",
+    "copy-from": "holybook_dort",
+    "type": "ITEM",
+    "name": {
+      "str": "Canons of Dort",
+      "str_pl": "copies of the Canons of Dort"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_confession",
+    "copy-from": "holybook_confession",
+    "type": "ITEM",
+    "name": {
+      "str": "Confession of Faith",
+      "str_pl": "copies of the Confession of Faith"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_orthodox",
+    "copy-from": "holybook_orthodox",
+    "type": "ITEM",
+    "name": {
+      "str": "The Orthodox Church",
+      "str_pl": "copies of The Orthodox Church"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_didascalia",
+    "copy-from": "holybook_didascalia",
+    "type": "ITEM",
+    "name": {
+      "str": "Didascalia Apostolorum",
+      "str_pl": "copies of the Didascalia Apostolorum"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_ladder",
+    "copy-from": "holybook_ladder",
+    "type": "ITEM",
+    "name": {
+      "str": "The Ladder of Divine Ascent",
+      "str_pl": "copies of The Ladder of Divine Ascent"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_jaiva",
+    "copy-from": "holybook_jaiva",
+    "type": "ITEM",
+    "name": {
+      "str": "Jaiva Dharma",
+      "str_pl": "copies of the Jaiva Dharma"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_zoro",
+    "copy-from": "holybook_zoro",
+    "type": "ITEM",
+    "name": {
+      "str": "Book of the Counsels of Zoroaster",
+      "str_pl": "copies of the Book of the Counsels of Zoroaster"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_anglican",
+    "copy-from": "holybook_anglican",
+    "type": "ITEM",
+    "name": {
+      "str": "Anglican Book of Common Prayer",
+      "str_pl": "copies of the Anglican Book of Common Prayer"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_kebra",
+    "copy-from": "holybook_kebra",
+    "type": "ITEM",
+    "name": {
+      "str": "Kebra Negast",
+      "str_pl": "copies of the Kebra Negast"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_granth",
+    "copy-from": "holybook_granth",
+    "type": "ITEM",
+    "name": {
+      "str": "The Guru Granth Sahib",
+      "str_pl": "copies of The Guru Granth Sahib"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_hadith",
+    "copy-from": "holybook_hadith",
+    "type": "ITEM",
+    "name": {
+      "str": "Hadith",
+      "str_pl": "copies of Hadith"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_kallisti",
+    "copy-from": "holybook_kallisti",
+    "type": "ITEM",
+    "name": {
+      "str": "Principia Discordia",
+      "str_pl": "copies of Principia Discordia"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_kojiki",
+    "copy-from": "holybook_kojiki",
+    "type": "ITEM",
+    "name": {
+      "str": "The Kojiki",
+      "str_pl": "copies of The Kojiki"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_nihon",
+    "copy-from": "holybook_nihon",
+    "type": "ITEM",
+    "name": {
+      "str": "Nihon Shoki",
+      "str_pl": "copies of the Nihon Shoki"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_fudoki",
+    "copy-from": "holybook_fudoki",
+    "type": "ITEM",
+    "name": {
+      "str": "Fudoki",
+      "str_pl": "copies of the Fudoki"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_ofudekasi",
+    "copy-from": "holybook_ofudekasi",
+    "type": "ITEM",
+    "name": {
+      "str": "Ofudekasi",
+      "str_pl": "copies of the Ofudekasi"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_uta",
+    "copy-from": "holybook_uta",
+    "type": "ITEM",
+    "name": {
+      "str": "Mikagura-uta",
+      "str_pl": "copies of the Mikagura-uta"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_osa",
+    "copy-from": "holybook_osa",
+    "type": "ITEM",
+    "name": {
+      "str": "Osashizu",
+      "str_pl": "copies of the Osashizu"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_tenry",
+    "copy-from": "holybook_tenry",
+    "type": "ITEM",
+    "name": {
+      "str": "Doctrines of Tenrikyo",
+      "str_pl": "copies of the Doctrines of Tenrikyo"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_oyasama",
+    "copy-from": "holybook_oyasama",
+    "type": "ITEM",
+    "name": {
+      "str": "The Life of Oyasama, Foundress of Tenrikyo",
+      "str_pl": "copies of The Life of Oyasama, Foundress of Tenrikyo"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_anecdotes",
+    "copy-from": "holybook_anecdotes",
+    "type": "ITEM",
+    "name": {
+      "str": "The Anecdotes of Oyasama, Foundress of Tenrikyo",
+      "str_pl": "copies of The Anecdotes of Oyasama, Foundress of Tenrikyo"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_mo",
+    "copy-from": "holybook_mo",
+    "type": "ITEM",
+    "name": {
+      "str": "Buluotuo",
+      "str_pl": "copies of the Buluotuo"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_guodian",
+    "copy-from": "holybook_guodian",
+    "type": "ITEM",
+    "name": {
+      "str": "Guodian Texts",
+      "str_pl": "copies of the Guodian Texts"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_maya",
+    "copy-from": "holybook_maya",
+    "type": "ITEM",
+    "name": {
+      "str": "Popol Vuh",
+      "str_pl": "copies of the Popol Vuh"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_aztec",
+    "copy-from": "holybook_aztec",
+    "type": "ITEM",
+    "name": {
+      "str": "Codex Borbonicus",
+      "str_pl": "copies of the Codex Borbonicus"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_inca",
+    "copy-from": "holybook_inca",
+    "type": "ITEM",
+    "name": {
+      "str": "Huarochir\u00ed Manuscript",
+      "str_pl": "copies of the Huarochir\u00ed Manuscript"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_canaanites",
+    "copy-from": "holybook_canaanites",
+    "type": "ITEM",
+    "name": {
+      "str": "Ugaritic Texts",
+      "str_pl": "copies of the Ugaritic Texts"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_kells",
+    "copy-from": "holybook_kells",
+    "type": "ITEM",
+    "name": {
+      "str": "Book of Kells",
+      "str_pl": "copies of the Book of Kells"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_leinster",
+    "copy-from": "holybook_leinster",
+    "type": "ITEM",
+    "name": {
+      "str": "Book of Leinster",
+      "str_pl": "copies of the Book of Leister"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_welsh",
+    "copy-from": "holybook_welsh",
+    "type": "ITEM",
+    "name": {
+      "str": "Mabinogion",
+      "str_pl": "copies of the Mabinogion"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_akkadia",
+    "copy-from": "holybook_akkadia",
+    "type": "ITEM",
+    "name": {
+      "str": "Atra-Hasis",
+      "str_pl": "copies of the Atra-Hasis"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_sumeria",
+    "copy-from": "holybook_sumeria",
+    "type": "ITEM",
+    "name": {
+      "str": "Enki and Ninhursag Myth",
+      "str_pl": "copies of the Enki and Ninhursag Myth"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_sumeria1",
+    "copy-from": "holybook_sumeria1",
+    "type": "ITEM",
+    "name": {
+      "str": "The Descent of Inanna",
+      "str_pl": "copies of The Descent of Inanna"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_helliand",
+    "copy-from": "holybook_helliand",
+    "type": "ITEM",
+    "name": {
+      "str": "Heliand",
+      "str_pl": "copies of the Heliand"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_sirach",
+    "copy-from": "holybook_sirach",
+    "type": "ITEM",
+    "name": {
+      "str": "Alphabet of Sirach",
+      "str_pl": "copies of the Alphabet of Sirach"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_navayana",
+    "copy-from": "holybook_navayana",
+    "type": "ITEM",
+    "name": {
+      "str": "The Buddha and His Dhamma",
+      "str_pl": "copies of The Buddha and His Dhamma"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_pana",
+    "copy-from": "holybook_pana",
+    "type": "ITEM",
+    "name": {
+      "str": "Panaturan",
+      "str_pl": "copies of the Panaturan"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_zhivo",
+    "copy-from": "holybook_zhivo",
+    "type": "ITEM",
+    "name": {
+      "str": "Zhivotnaya Kniga",
+      "str_pl": "copies of the Zhivotnaya Kniga"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_mormon",
+    "copy-from": "holybook_mormon",
+    "type": "ITEM",
+    "name": {
+      "str": "The Book of Mormon",
+      "str_pl": "copies of The Book of Mormon"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_east",
+    "copy-from": "holybook_east",
+    "type": "ITEM",
+    "name": {
+      "str": "Holy Books of the East",
+      "str_pl": "copies of the Holy Books of the East"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_nag_hammadi",
+    "copy-from": "holybook_nag_hammadi",
+    "type": "ITEM",
+    "name": {
+      "str": "Nag Hammadi Codex",
+      "str_pl": "Nag Hammadi Codices"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_pastafarian",
+    "copy-from": "holybook_pastafarian",
+    "type": "ITEM",
+    "name": {
+      "str": "The Gospel of the Flying Spaghetti Monster",
+      "str_pl": "copies of The Gospel of the Flying Spaghetti Monster"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_quran",
+    "copy-from": "holybook_quran",
+    "type": "ITEM",
+    "name": {
+      "str": "Quran",
+      "str_pl": "copies of Quran"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_satanic",
+    "copy-from": "holybook_satanic",
+    "type": "ITEM",
+    "name": {
+      "str": "The Satanic Bible",
+      "str_pl": "copies of The Satanic Bible"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_wicca",
+    "copy-from": "holybook_wicca",
+    "type": "ITEM",
+    "name": {
+      "str": "The Book of Shadows",
+      "str_pl": "copies of The Book of Shadows"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_wicca1",
+    "copy-from": "holybook_wicca1",
+    "type": "ITEM",
+    "name": {
+      "str": "Witchcraft Today",
+      "str_pl": "copies of Witchcraft Today"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_wicca2",
+    "copy-from": "holybook_wicca2",
+    "type": "ITEM",
+    "name": {
+      "str": "The Spiral Dance",
+      "str_pl": "copies of The Spiral Dance"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_scientology",
+    "copy-from": "holybook_scientology",
+    "type": "ITEM",
+    "name": {
+      "str": "Dianetics",
+      "str_pl": "copies of Dianetics"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_slack",
+    "copy-from": "holybook_slack",
+    "type": "ITEM",
+    "name": {
+      "str": "The Book of the SubGenius",
+      "str_pl": "copies of The Book of the SubGenius"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_mozilla",
+    "copy-from": "holybook_mozilla",
+    "type": "ITEM",
+    "name": {
+      "str": "The Book of Mozilla",
+      "str_pl": "copies of The Book of Mozilla"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_frog",
+    "copy-from": "holybook_frog",
+    "type": "ITEM",
+    "name": {
+      "str": "The Blue Book of the Blue Frog",
+      "str_pl": "copies of the Blue Book of the Blue Frog"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_mahayana",
+    "copy-from": "holybook_mahayana",
+    "type": "ITEM",
+    "name": {
+      "str": "The Mahayana Sutras",
+      "str_pl": "copies of The Mahayana Sutras"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_tibetan",
+    "copy-from": "holybook_tibetan",
+    "type": "ITEM",
+    "name": {
+      "str": "Tibetan Buddhist Canon",
+      "str_pl": "copies of the Tibetan Buddhist Canon"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_gita",
+    "copy-from": "holybook_gita",
+    "type": "ITEM",
+    "name": {
+      "str": "The Bhagavad Gita",
+      "str_pl": "copies of The Bhagavad Gita"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_mahabharata",
+    "copy-from": "holybook_mahabharata",
+    "type": "ITEM",
+    "name": {
+      "str": "The Mahabharata",
+      "str_pl": "copies of The Mahabharata"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_ramayana",
+    "copy-from": "holybook_ramayana",
+    "type": "ITEM",
+    "name": {
+      "str": "The Ramayana",
+      "str_pl": "copies of The Ramayana"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_puranas",
+    "copy-from": "holybook_puranas",
+    "type": "ITEM",
+    "name": {
+      "str": "The Puranas",
+      "str_pl": "copies of The Puranas"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_agamas",
+    "copy-from": "holybook_agamas",
+    "type": "ITEM",
+    "name": {
+      "str": "The Agamas",
+      "str_pl": "copies of The Agamas"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_jagamas",
+    "copy-from": "holybook_jagamas",
+    "type": "ITEM",
+    "name": {
+      "str": "The Jain Agamas",
+      "str_pl": "copies of the Jain Agamas"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_sutras",
+    "copy-from": "holybook_sutras",
+    "type": "ITEM",
+    "name": {
+      "str": "The Sutras of the Buddha",
+      "str_pl": "copies of The Sutras of the Buddha"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_zara",
+    "copy-from": "holybook_zara",
+    "type": "ITEM",
+    "name": {
+      "str": "The Zara Avesta",
+      "str_pl": "copies of the Zara Avesta"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_theogony",
+    "copy-from": "holybook_theogony",
+    "type": "ITEM",
+    "name": {
+      "str": "Theogony",
+      "str_pl": "copies of the Theogony"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_orphic",
+    "copy-from": "holybook_orphic",
+    "type": "ITEM",
+    "name": {
+      "str": "The Orphic Hymns",
+      "str_pl": "copies of The Orphic Hymns"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_golden",
+    "copy-from": "holybook_golden",
+    "type": "ITEM",
+    "name": {
+      "str": "The Orphic Gold Tablets",
+      "str_pl": "copies of The Orphic Gold Tablets"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_romancult",
+    "copy-from": "holybook_romancult",
+    "type": "ITEM",
+    "name": {
+      "str": "Res Gestae Divi Augusti",
+      "str_pl": "copies of the Res Gestae Divi Augusti"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_romancult2",
+    "copy-from": "holybook_romancult2",
+    "type": "ITEM",
+    "name": {
+      "str": "Historia Augusta",
+      "str_pl": "copies of the Historia Augusta"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_corpus",
+    "copy-from": "holybook_corpus",
+    "type": "ITEM",
+    "name": {
+      "str": "The Corpus Hermeticum",
+      "str_pl": "copies of The Corpus Hermeticum"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_mithraic",
+    "copy-from": "holybook_mithraic",
+    "type": "ITEM",
+    "name": {
+      "str": "The Mithraic Inscriptions",
+      "str_pl": "copies of The Mithraic Inscriptions"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_tengriism",
+    "copy-from": "holybook_tengriism",
+    "type": "ITEM",
+    "name": {
+      "str": "Tengriism: The Religion of Ancient Mongolia",
+      "str_pl": "copies of Tengriism: The Religion of Ancient Mongolia"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_chinese",
+    "copy-from": "holybook_chinese",
+    "type": "ITEM",
+    "name": {
+      "str": "Classic of Mountains and Seas",
+      "str_pl": "copies of the Classic of Mountains and Seas"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_koreantrip",
+    "copy-from": "holybook_koreantrip",
+    "type": "ITEM",
+    "name": {
+      "str": "Tripitaka Koreana",
+      "str_pl": "copies of the Tripitaka Koreana"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_hawaii",
+    "copy-from": "holybook_hawaii",
+    "type": "ITEM",
+    "name": {
+      "str": "Mo\u02bbolelo",
+      "str_pl": "copies of the Mo\u02bbolelo"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_maori",
+    "copy-from": "holybook_maori",
+    "type": "ITEM",
+    "name": {
+      "str": "Te Ao M\u0101ori",
+      "str_pl": "copies of the Te Ao M\u0101ori"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_native",
+    "copy-from": "holybook_native",
+    "type": "ITEM",
+    "name": {
+      "str": "The Native Religion of New England",
+      "str_pl": "copies of The Native Religion of New England"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_cao",
+    "copy-from": "holybook_cao",
+    "type": "ITEM",
+    "name": {
+      "str": "The Compilation of Divine Messages",
+      "str_pl": "copies of The Compilation of Divine Messages"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_egypt",
+    "copy-from": "holybook_egypt",
+    "type": "ITEM",
+    "name": {
+      "str": "The Pyramid Texts",
+      "str_pl": "copies of The Pyramid Texts"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_egypt1",
+    "copy-from": "holybook_egypt1",
+    "type": "ITEM",
+    "name": {
+      "str": "The Coffin Texts",
+      "str_pl": "copies of The Coffin Texts"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_egypt2",
+    "copy-from": "holybook_egypt2",
+    "type": "ITEM",
+    "name": {
+      "str": "The Book of the Dead",
+      "str_pl": "copies of The Book of the Dead"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_umbanda",
+    "copy-from": "holybook_umbanda",
+    "type": "ITEM",
+    "name": {
+      "str": "Orishas and Their Deities",
+      "str_pl": "copies of Orishas and Their Deities"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_taoism",
+    "copy-from": "holybook_taoism",
+    "type": "ITEM",
+    "name": {
+      "str": "The Tao Te Ching",
+      "str_pl": "copies of The Tao Te Ching"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_confucian",
+    "copy-from": "holybook_confucian",
+    "type": "ITEM",
+    "name": {
+      "str": "The Four Books and Five Classics",
+      "str_pl": "copies of The Four Books and Five Classics"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_daime",
+    "copy-from": "holybook_daime",
+    "type": "ITEM",
+    "name": {
+      "str": "Cruzeiro",
+      "str_pl": "copies of the Cruzeiro"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_candomble",
+    "copy-from": "holybook_candomble",
+    "type": "ITEM",
+    "name": {
+      "str": "The Ogam and Ipade",
+      "str_pl": "copies of The Ogam and Ipade"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_siddur",
+    "copy-from": "holybook_siddur",
+    "type": "ITEM",
+    "name": {
+      "str": "Siddur",
+      "str_pl": "Siddurim"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_talmud",
+    "copy-from": "holybook_talmud",
+    "type": "ITEM",
+    "name": {
+      "str": "Talmud",
+      "str_pl": "volumes of the Talmud"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_tanakh",
+    "copy-from": "holybook_tanakh",
+    "type": "ITEM",
+    "name": {
+      "str": "Tanakh",
+      "str_pl": "copies of Tanakh"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_torah_scroll",
+    "copy-from": "holybook_torah_scroll",
+    "type": "ITEM",
+    "name": {
+      "str": "Torah",
+      "str_pl": "copies of the Torah"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_tripitaka",
+    "copy-from": "holybook_tripitaka",
+    "type": "ITEM",
+    "name": {
+      "str": "The Tripitaka",
+      "str_pl": "copies of The Tripitaka"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_upanishads",
+    "copy-from": "holybook_upanishads",
+    "type": "ITEM",
+    "name": {
+      "str": "The Upanishads",
+      "str_pl": "copies of The Upanishads"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_vedas",
+    "copy-from": "holybook_vedas",
+    "type": "ITEM",
+    "name": {
+      "str": "The Four Vedas",
+      "str_pl": "copies of The Four Vedas"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_babylon",
+    "copy-from": "holybook_babylon",
+    "type": "ITEM",
+    "name": {
+      "str": "Enuma Elish",
+      "str_pl": "copies of the Enuma Elish"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_havamal",
+    "copy-from": "holybook_havamal",
+    "type": "ITEM",
+    "name": {
+      "str": "H\u00e1vam\u00e1l",
+      "str_pl": "copies of H\u00e1vam\u00e1l"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_ginza",
+    "copy-from": "holybook_ginza",
+    "type": "ITEM",
+    "name": {
+      "str": "Ginza Rabba",
+      "str_pl": "copies of the Ginza Rabba"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_ginza1",
+    "copy-from": "holybook_ginza1",
+    "type": "ITEM",
+    "name": {
+      "str": "Qolast\u0101",
+      "str_pl": "copies of the Qolast\u0101"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_ginza2",
+    "copy-from": "holybook_ginza2",
+    "type": "ITEM",
+    "name": {
+      "str": "Drasa d-Yahya",
+      "str_pl": "copies of the Drasa d-Yahya"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_bahai",
+    "copy-from": "holybook_bahai",
+    "type": "ITEM",
+    "name": {
+      "str": "Kit\u00e1b-i-Aqdas",
+      "str_pl": "copies of the Kit\u00e1b-i-Aqdas"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_bahai1",
+    "copy-from": "holybook_bahai1",
+    "type": "ITEM",
+    "name": {
+      "str": "Kit\u00e1b-i-\u00cdq\u00e1n",
+      "str_pl": "copies of the Kit\u00e1b-i-\u00cdq\u00e1n"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_bahai2",
+    "copy-from": "holybook_bahai2",
+    "type": "ITEM",
+    "name": {
+      "str": "The Hidden Words",
+      "str_pl": "copies of The Hidden Words"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_bahai3",
+    "copy-from": "holybook_bahai3",
+    "type": "ITEM",
+    "name": {
+      "str": "Baha'i Prayers",
+      "str_pl": "copies of the Baha'i Prayers"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_bahai4",
+    "copy-from": "holybook_bahai4",
+    "type": "ITEM",
+    "name": {
+      "str": "The Secret of Divine Civilization",
+      "str_pl": "copies of The Secret of Divine Civilization"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "holybook_bahai5",
+    "copy-from": "holybook_bahai5",
+    "type": "ITEM",
+    "name": {
+      "str": "'Some Answered Questions'",
+      "str_pl": "copies of 'Some Answered Questions'"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

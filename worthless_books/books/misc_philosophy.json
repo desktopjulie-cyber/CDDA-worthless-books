@@ -1,0 +1,52 @@
+[
+  {
+    "id": "philosophy_book",
+    "copy-from": "philosophy_book",
+    "type": "ITEM",
+    "name": {
+      "str": "book of philosophy",
+      "str_pl": "books of philosophy"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_hard_phil_mdlogic",
+    "copy-from": "book_nonf_hard_phil_mdlogic",
+    "type": "ITEM",
+    "name": {
+      "str": "Modal Logic as Metaphysics",
+      "str_pl": "copies of Modal Logic"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_hard_phil_aesth",
+    "copy-from": "book_nonf_hard_phil_aesth",
+    "type": "ITEM",
+    "name": {
+      "str": "Aesthetics: A Critical Anthology",
+      "str_pl": "copies of Aesthetics"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_hard_phil_phinfo",
+    "copy-from": "book_nonf_hard_phil_phinfo",
+    "type": "ITEM",
+    "name": {
+      "str": "The Philosophy of Information",
+      "str_pl": "copies of The Philosophy of Information"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_soft_phil_benoth",
+    "copy-from": "book_nonf_soft_phil_benoth",
+    "type": "ITEM",
+    "name": {
+      "str": "Being and Nothingness",
+      "str_pl": "copies of Being and Nothingness"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

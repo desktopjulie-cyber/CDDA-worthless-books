@@ -1,0 +1,82 @@
+[
+  {
+    "id": "SICP",
+    "copy-from": "SICP",
+    "type": "ITEM",
+    "name": {
+      "str": "SICP",
+      "str_pl": "copies of SICP"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "computer_science",
+    "copy-from": "computer_science",
+    "type": "ITEM",
+    "name": {
+      "str": "Computer Science 301",
+      "str_pl": "copies of Computer Science 301"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "howto_computer",
+    "copy-from": "howto_computer",
+    "type": "ITEM",
+    "name": {
+      "str": "How to Browse the Web",
+      "str_pl": "copies of How to Browse the Web"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "mag_computer",
+    "copy-from": "mag_computer",
+    "type": "ITEM",
+    "name": {
+      "str": "Computer World",
+      "str_pl": "issues of Computer World"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_computer",
+    "copy-from": "manual_computer",
+    "type": "ITEM",
+    "name": {
+      "str": "Computer Science 101",
+      "str_pl": "copies of Computer Science 101"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_computer",
+    "copy-from": "textbook_computer",
+    "type": "ITEM",
+    "name": {
+      "str": "Principles of Advanced Programming",
+      "str_pl": "copies of Principles of Advanced Programming"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "webbasics_computer",
+    "copy-from": "webbasics_computer",
+    "type": "ITEM",
+    "name": {
+      "str": "Web Design Basics",
+      "str_pl": "copies of Web Design Basics"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "hackerman_computer",
+    "copy-from": "hackerman_computer",
+    "type": "ITEM",
+    "name": {
+      "str": "Pro Hacker Secrets",
+      "str_pl": "copies of Pro Hacker Secrets"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

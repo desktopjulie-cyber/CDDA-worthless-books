@@ -1,0 +1,82 @@
+[
+  {
+    "id": "book_anthology_moataatgb",
+    "copy-from": "book_anthology_moataatgb",
+    "type": "ITEM",
+    "name": {
+      "str": "The Museum of All Things Awesome and That Go Boom",
+      "str_pl": "copies of The Museum of All Things Awesome and That Go Boom"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_anthology_sunvault",
+    "copy-from": "book_anthology_sunvault",
+    "type": "ITEM",
+    "name": {
+      "str": "Sunvault: Stories of Solarpunk & Eco-Speculation",
+      "str_pl": "copies of Sunvault"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_anthology_sst",
+    "copy-from": "book_anthology_sst",
+    "type": "ITEM",
+    "name": {
+      "str": "Sharp & Sugar Tooth",
+      "str_pl": "copies of Sharp & Sugar Tooth"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_anthology_bk",
+    "copy-from": "book_anthology_bk",
+    "type": "ITEM",
+    "name": {
+      "str": "Broad Knowledge",
+      "str_pl": "copies of Broad Knowledge"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_anthology_cw",
+    "copy-from": "book_anthology_cw",
+    "type": "ITEM",
+    "name": {
+      "str": "Choose Wisely",
+      "str_pl": "copies of Choose Wisely"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_anthology_an",
+    "copy-from": "book_anthology_an",
+    "type": "ITEM",
+    "name": {
+      "str": "Apocalypse Now",
+      "str_pl": "copies of Apocalypse Now"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_anthology_htloop",
+    "copy-from": "book_anthology_htloop",
+    "type": "ITEM",
+    "name": {
+      "str": "How to Live on Other Planets: A Handbook for Aspiring Aliens",
+      "str_pl": "copies of How to Live on Other Planets"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "poetic_edda",
+    "copy-from": "poetic_edda",
+    "type": "ITEM",
+    "name": {
+      "str": "Poetic Edda",
+      "str_pl": "copies of the Poetic Edda"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

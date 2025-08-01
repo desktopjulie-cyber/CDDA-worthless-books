@@ -1,0 +1,32 @@
+[
+  {
+    "id": "book_archery",
+    "copy-from": "book_archery",
+    "type": "ITEM",
+    "name": {
+      "str": "Lessons for the Novice Bowhunter",
+      "str_pl": "copies of Lessons for the Novice Bowhunter"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_archery",
+    "copy-from": "manual_archery",
+    "type": "ITEM",
+    "name": {
+      "str": "Zen and the Art of Archery",
+      "str_pl": "copies of Zen and the Art of Archery"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "mag_archery",
+    "copy-from": "mag_archery",
+    "type": "ITEM",
+    "name": {
+      "str": "Archery for Kids",
+      "str_pl": "issues of Archery for Kids"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

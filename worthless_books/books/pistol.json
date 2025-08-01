@@ -1,0 +1,22 @@
+[
+  {
+    "id": "mag_pistol",
+    "copy-from": "mag_pistol",
+    "type": "ITEM",
+    "name": {
+      "str": "Tactical Handgun Digest",
+      "str_pl": "issues of Tactical Handgun Digest"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_pistol",
+    "copy-from": "manual_pistol",
+    "type": "ITEM",
+    "name": {
+      "str": "The Tao of the Handgun",
+      "str_pl": "copies of The Tao of the Handgun"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "mag_swimming",
+    "copy-from": "mag_swimming",
+    "type": "ITEM",
+    "name": {
+      "str": "Swim Planet",
+      "str_pl": "issues of Swim Planet"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_swimming",
+    "copy-from": "manual_swimming",
+    "type": "ITEM",
+    "name": {
+      "str": "Water Survival Training Field Manual",
+      "str_pl": "copies of Water Survival Training Field Manual"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

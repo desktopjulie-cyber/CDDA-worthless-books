@@ -1,0 +1,22 @@
+[
+  {
+    "id": "mag_melee",
+    "copy-from": "mag_melee",
+    "type": "ITEM",
+    "name": {
+      "str": "CQB Monthly",
+      "str_pl": "issues of CQB Monthly"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_melee",
+    "copy-from": "manual_melee",
+    "type": "ITEM",
+    "name": {
+      "str": "Close Quarter Fighting Manual",
+      "str_pl": "copies of Close Quarter Fighting Manual"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "mag_guns",
+    "copy-from": "mag_guns",
+    "type": "ITEM",
+    "name": {
+      "str": "Guns n Ammo",
+      "str_pl": "issues of Guns n Ammo"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_gun",
+    "copy-from": "manual_gun",
+    "type": "ITEM",
+    "name": {
+      "str": "The Gun Owner's Handbook",
+      "str_pl": "copies of The Gun Owner's Handbook"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "pocket_firearms",
+    "copy-from": "pocket_firearms",
+    "type": "ITEM",
+    "name": {
+      "str": "Pocket Guide to Firearm Safety",
+      "str_pl": "copies of Pocket Guide to Firearm Safety"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "text_gunsmith",
+    "copy-from": "text_gunsmith",
+    "type": "ITEM",
+    "name": {
+      "str": "Ballistics: Theory, Design, and Application",
+      "str_pl": "copies of Ballistics: Theory, Design, and Application"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

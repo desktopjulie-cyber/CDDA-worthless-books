@@ -1,0 +1,359 @@
+[
+  {
+    "id": "glassblowing_book",
+    "copy-from": "glassblowing_book",
+    "type": "ITEM",
+    "name": {
+      "str": "The Art of Glassblowing",
+      "str_pl": "copies of The Art of Glassblowing"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "plastics_book",
+    "copy-from": "plastics_book",
+    "type": "ITEM",
+    "name": {
+      "str": "Plastics & Polymers: Projects for the Classroom",
+      "str_pl": "copies of Plastics & Polymers: Projects for the Classroom"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "metal_casting_book",
+    "copy-from": "metal_casting_book",
+    "type": "ITEM",
+    "name": {
+      "str": "metal casting reference manual"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "alloy_book",
+    "copy-from": "alloy_book",
+    "type": "ITEM",
+    "name": {
+      "str": "alloying reference manual"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "bronze_book",
+    "copy-from": "bronze_book",
+    "type": "ITEM",
+    "name": {
+      "str": "The Bronze Age Encyclopedia",
+      "str_pl": "copies of The Bronze Age Encyclopedia"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "bronze_mag",
+    "copy-from": "bronze_mag",
+    "type": "ITEM",
+    "name": {
+      "str": "Historic Warfare: The Bronze Age",
+      "str_pl": "copies of Historic Warfare: The Bronze Age"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "theater_props",
+    "copy-from": "theater_props",
+    "type": "ITEM",
+    "name": {
+      "str": "The Prop Builder's Molding and Casting Handbook",
+      "str_pl": "copies of The Prop Builder's Molding and Casting Handbook"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "jewelry_book",
+    "copy-from": "jewelry_book",
+    "type": "ITEM",
+    "name": {
+      "str": "Antique Adornments",
+      "str_pl": "copies of Antique Adornments"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "mag_fabrication",
+    "copy-from": "mag_fabrication",
+    "type": "ITEM",
+    "name": {
+      "str": "Crafty Crafter's Quarterly",
+      "str_pl": "Crafty Crafter's Quarterlies"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_fabrication",
+    "copy-from": "manual_fabrication",
+    "type": "ITEM",
+    "name": {
+      "str": "101 Crafts for Beginners",
+      "str_pl": "copies of 101 Crafts for Beginners"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "recipe_arrows",
+    "copy-from": "recipe_arrows",
+    "type": "ITEM",
+    "name": {
+      "str": "The Fletcher's Friend",
+      "str_pl": "copies of The Fletcher's Friend"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "recipe_bows",
+    "copy-from": "recipe_bows",
+    "type": "ITEM",
+    "name": {
+      "str": "The Bowyer's Buddy",
+      "str_pl": "copies of The Bowyer's Buddy"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "recipe_bullets",
+    "copy-from": "recipe_bullets",
+    "type": "ITEM",
+    "name": {
+      "str": "The Handloader's Helper",
+      "str_pl": "copies of The Handloader's Helper"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "recipe_caseless",
+    "copy-from": "recipe_caseless",
+    "type": "ITEM",
+    "name": {
+      "str": "Rivtech design binder"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "recipe_lab_cvd",
+    "copy-from": "recipe_lab_cvd",
+    "type": "ITEM",
+    "name": {
+      "str": "lab journal-Gustav",
+      "str_pl": "lab journals-Gustav"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "recipe_melee",
+    "copy-from": "recipe_melee",
+    "type": "ITEM",
+    "name": {
+      "str": "The Streetfighter's Sidekick",
+      "str_pl": "copies of The Streetfighter's Sidekick"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_armeast",
+    "copy-from": "textbook_armeast",
+    "type": "ITEM",
+    "name": {
+      "str": "The Art of Japanese Armormaking",
+      "str_pl": "copies of The Art of Japanese Armormaking"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_armschina",
+    "copy-from": "textbook_armschina",
+    "type": "ITEM",
+    "name": {
+      "str": "Arms and Armor of Imperial China",
+      "str_pl": "copies of Arms and Armor of Imperial China"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_weparabic",
+    "copy-from": "textbook_weparabic",
+    "type": "ITEM",
+    "name": {
+      "str": "Tools of Warfare in the Arabic World",
+      "str_pl": "copies of Tools of Warfare in the Arabic World"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_armwest",
+    "copy-from": "textbook_armwest",
+    "type": "ITEM",
+    "name": {
+      "str": "Studies in Historic Armorsmithing",
+      "str_pl": "copies of Studies in Historic Armorsmithing"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_mesoam",
+    "copy-from": "textbook_mesoam",
+    "type": "ITEM",
+    "name": {
+      "str": "The Art of Warfare in Precolumbian Mesoamericas",
+      "str_pl": "copies of The Art of Warfare in Precolumbian Mesoamericas"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_fabrication",
+    "copy-from": "textbook_fabrication",
+    "type": "ITEM",
+    "name": {
+      "str": "DIY Compendium",
+      "str_pl": "copies of DIY Compendium"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_fireman",
+    "copy-from": "textbook_fireman",
+    "type": "ITEM",
+    "name": {
+      "str": "A History of Firefighting",
+      "str_pl": "copies of A History of Firefighting"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_weapeast",
+    "copy-from": "textbook_weapeast",
+    "type": "ITEM",
+    "name": {
+      "str": "The Swords of the Samurai",
+      "str_pl": "copies of The Swords of the Samurai"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_weapwest",
+    "copy-from": "textbook_weapwest",
+    "type": "ITEM",
+    "name": {
+      "str": "The Historic Weaponsmith",
+      "str_pl": "copies of The Historic Weaponsmith"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "welding_book",
+    "copy-from": "welding_book",
+    "type": "ITEM",
+    "name": {
+      "str": "Welding and Metallurgy",
+      "str_pl": "copies of Welding and Metallurgy"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "101_carpentry",
+    "copy-from": "101_carpentry",
+    "type": "ITEM",
+    "name": {
+      "str": "101 Home Repairs",
+      "str_pl": "copies of 101 Home Repairs"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "carpentry_book",
+    "copy-from": "carpentry_book",
+    "type": "ITEM",
+    "name": {
+      "str": "The Complete Home Repair Guide",
+      "str_pl": "copies of The Complete Home Repair Guide"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "mag_carpentry",
+    "copy-from": "mag_carpentry",
+    "type": "ITEM",
+    "name": {
+      "str": "Birdhouse Monthly",
+      "str_pl": "Birdhouse Monthlies"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_carpentry",
+    "copy-from": "manual_carpentry",
+    "type": "ITEM",
+    "name": {
+      "str": "Building for Beginners",
+      "str_pl": "copies of Building for Beginners"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_carpentry",
+    "copy-from": "textbook_carpentry",
+    "type": "ITEM",
+    "name": {
+      "str": "Engineering 301",
+      "str_pl": "copies of Engineering 301"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "reference_fabrication1",
+    "copy-from": "reference_fabrication1",
+    "type": "ITEM",
+    "name": {
+      "str": "Machinery's Handbook",
+      "str_pl": "copies of Machinery's Handbook"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "concrete_book",
+    "copy-from": "concrete_book",
+    "type": "ITEM",
+    "name": {
+      "str": "Concrete Constructions",
+      "str_pl": "copies of Concrete Constructions"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "recipe_migo_plate",
+    "copy-from": "recipe_migo_plate",
+    "type": "ITEM",
+    "name": {
+      "str": "WX010 Living Armor Observations",
+      "str_pl": "copies of WX010 Living Armor Observations"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "ballista_book",
+    "copy-from": "ballista_book",
+    "type": "ITEM",
+    "name": {
+      "str": "Artillery of the Ancients",
+      "str_pl": "copies of Artillery of the Ancients"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "recipe_dave_manual",
+    "copy-from": "recipe_dave_manual",
+    "type": "ITEM",
+    "name": {
+      "str": "Dino Dave's cardboard notebook",
+      "str_pl": "copies of Dino Dave's cardboard notebook"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

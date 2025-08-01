@@ -1,0 +1,32 @@
+[
+  {
+    "id": "mag_cutting",
+    "copy-from": "mag_cutting",
+    "type": "ITEM",
+    "name": {
+      "str": "All About Swords",
+      "str_pl": "issues of All About Swords"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_cutting",
+    "copy-from": "manual_cutting",
+    "type": "ITEM",
+    "name": {
+      "str": "knife fighter's notes",
+      "str_pl": "collections of knife fighter's notes"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_swords",
+    "copy-from": "manual_swords",
+    "type": "ITEM",
+    "name": {
+      "str": "USMC Sword Manual Procedure",
+      "str_pl": "copies of USMC Sword Manual Procedures"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

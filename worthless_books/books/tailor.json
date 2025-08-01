@@ -1,0 +1,126 @@
+[
+  {
+    "id": "mag_animecon",
+    "copy-from": "mag_animecon",
+    "type": "ITEM",
+    "name": {
+      "str": "Boston AnimeCon magazine"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "mag_beauty",
+    "copy-from": "mag_beauty",
+    "type": "ITEM",
+    "name": {
+      "str": "Beauty Magazine"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "mag_tailor",
+    "copy-from": "mag_tailor",
+    "type": "ITEM",
+    "name": {
+      "str": "Sew Awesome Monthly",
+      "str_pl": "Sew Awesome Monthlies"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_tailor",
+    "copy-from": "manual_tailor",
+    "type": "ITEM",
+    "name": {
+      "str": "Sew What? Clothing!",
+      "str_pl": "copies of Sew What? Clothing!"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "tailor_portfolio",
+    "copy-from": "tailor_portfolio",
+    "type": "ITEM",
+    "name": {
+      "str": "clothing designer's portfolio"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "tailor_japanese",
+    "copy-from": "tailor_japanese",
+    "type": "ITEM",
+    "name": {
+      "str": "Traditional Japanese Kimono",
+      "str_pl": "copies of Traditional Japanese Kimono"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "recipe_fauxfur",
+    "copy-from": "recipe_fauxfur",
+    "type": "ITEM",
+    "name": {
+      "str": "Friendly, Humane Fashion",
+      "str_pl": "copies of Friendly, Humane Fashion"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_tailor",
+    "copy-from": "textbook_tailor",
+    "type": "ITEM",
+    "name": {
+      "str": "Sewing Techniques for Designers",
+      "str_pl": "copies of Sewing Techniques for Designers"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "scots_tailor",
+    "copy-from": "scots_tailor",
+    "type": "ITEM",
+    "name": {
+      "str": "Ye Scots Beuk o Tailorin'",
+      "str_pl": "copies of Ye Scots Beuk o Tailorin'"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "dieselpunk_tailor",
+    "copy-from": "dieselpunk_tailor",
+    "type": "ITEM",
+    "name": {
+      "str": "Dieselpunk Designs",
+      "str_pl": "copies of Dieselpunk Designs"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "bp_nomad_cowl",
+    "copy-from": "bp_nomad_cowl",
+    "type": "ITEM",
+    "name": {
+      "str": "nomad cowl blueprint"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "bp_nomad_bodyglove",
+    "copy-from": "bp_nomad_bodyglove",
+    "type": "ITEM",
+    "name": {
+      "str": "nomad bodyglove blueprint"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "bp_nomad_jumpsuit",
+    "copy-from": "bp_nomad_jumpsuit",
+    "type": "ITEM",
+    "name": {
+      "str": "nomad jumpsuit blueprint"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

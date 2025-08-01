@@ -1,0 +1,32 @@
+[
+  {
+    "id": "mag_barter",
+    "copy-from": "mag_barter",
+    "type": "ITEM",
+    "name": {
+      "str": "Car Buyer's Guide",
+      "str_pl": "copies of Car Buyer's Guide"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_business",
+    "copy-from": "manual_business",
+    "type": "ITEM",
+    "name": {
+      "str": "How to Succeed in Business",
+      "str_pl": "copies of How to Succeed in Business"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_business",
+    "copy-from": "textbook_business",
+    "type": "ITEM",
+    "name": {
+      "str": "Advanced Economics",
+      "str_pl": "copies of Advanced Economics"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

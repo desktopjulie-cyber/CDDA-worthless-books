@@ -1,0 +1,247 @@
+[
+  {
+    "id": "advanced_electronics",
+    "copy-from": "advanced_electronics",
+    "type": "ITEM",
+    "name": {
+      "str": "Advanced Electronics",
+      "str_pl": "copies of Advanced Electronics"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "arduino_experiments",
+    "copy-from": "arduino_experiments",
+    "type": "ITEM",
+    "name": {
+      "str": "Arduino Experiments",
+      "str_pl": "copies of Arduino Experiments"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "mag_electronics",
+    "copy-from": "mag_electronics",
+    "type": "ITEM",
+    "name": {
+      "str": "Ham Radio Illustrated",
+      "str_pl": "issues of Ham Radio Illustrated"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_electronics",
+    "copy-from": "manual_electronics",
+    "type": "ITEM",
+    "name": {
+      "str": "What's a Transistor?",
+      "str_pl": "copies of What's a Transistor?"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "ic_reference_electronics",
+    "copy-from": "ic_reference_electronics",
+    "type": "ITEM",
+    "name": {
+      "str": "101 Important Integrated Circuits",
+      "str_pl": "copies of 101 Important Integrated Circuits"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "radio_book",
+    "copy-from": "radio_book",
+    "type": "ITEM",
+    "name": {
+      "str": "Amateur Home Radio for Enthusiasts",
+      "str_pl": "copies of Amateur Home Radio for Enthusiasts"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "recipe_atomic_battery",
+    "copy-from": "recipe_atomic_battery",
+    "type": "ITEM",
+    "name": {
+      "str": "computer printout"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "recipe_augs",
+    "copy-from": "recipe_augs",
+    "type": "ITEM",
+    "name": {
+      "str": "The Role of Robotics in Modern Day Manufacturing",
+      "str_pl": "copies of The Role of Robotics in Modern Day Manufacturing"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "recipe_lab_elec",
+    "copy-from": "recipe_lab_elec",
+    "type": "ITEM",
+    "name": {
+      "str": "lab journal-Herrera",
+      "str_pl": "lab journals-Herrera"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "recipe_mil_augs",
+    "copy-from": "recipe_mil_augs",
+    "type": "ITEM",
+    "name": {
+      "str": "2XI design binder-CLASSIFIED",
+      "str_pl": "2XI design binders-CLASSIFIED"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "repeater_mod_guide",
+    "copy-from": "repeater_mod_guide",
+    "type": "ITEM",
+    "name": {
+      "str_sp": "plans for a radio repeater mod"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_electronics",
+    "copy-from": "textbook_electronics",
+    "type": "ITEM",
+    "name": {
+      "str": "Electronic Circuit Theory",
+      "str_pl": "copies of Electronic Circuit Theory"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_robots",
+    "copy-from": "textbook_robots",
+    "type": "ITEM",
+    "name": {
+      "str": "Robots for Fun & Profit",
+      "str_pl": "copies of Robots for Fun & Profit"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "robofac_yrax_trifacet_deactivation_manual",
+    "copy-from": "robofac_yrax_trifacet_deactivation_manual",
+    "type": "ITEM",
+    "name": {
+      "str_sp": "trifacet handling procedures"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "exodii_wiring_kit_reference",
+    "copy-from": "exodii_wiring_kit_reference",
+    "type": "ITEM",
+    "name": {
+      "str_sp": "CBM interface wiring reference"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "schematics_nursebot",
+    "copy-from": "schematics_nursebot",
+    "type": "ITEM",
+    "name": {
+      "str_sp": "nurse bot schematics"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "schematics_grocerybot",
+    "copy-from": "schematics_grocerybot",
+    "type": "ITEM",
+    "name": {
+      "str_sp": "grocery bot schematics"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "schematics_secubot",
+    "copy-from": "schematics_secubot",
+    "type": "ITEM",
+    "name": {
+      "str_sp": "security bot schematics"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "schematics_skitterbot",
+    "copy-from": "schematics_skitterbot",
+    "type": "ITEM",
+    "name": {
+      "str_sp": "skitterbot schematics"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "schematics_hazmatbot",
+    "copy-from": "schematics_hazmatbot",
+    "type": "ITEM",
+    "name": {
+      "str_sp": "cleaner bot schematics"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "schematics_molebot",
+    "copy-from": "schematics_molebot",
+    "type": "ITEM",
+    "name": {
+      "str_sp": "miner bot schematics"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "schematics_sciencebot",
+    "copy-from": "schematics_sciencebot",
+    "type": "ITEM",
+    "name": {
+      "str_sp": "lab defense bot schematics"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "schematics_dispatch",
+    "copy-from": "schematics_dispatch",
+    "type": "ITEM",
+    "name": {
+      "str_sp": "dispatch schematics"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "schematics_dispatch_military",
+    "copy-from": "schematics_dispatch_military",
+    "type": "ITEM",
+    "name": {
+      "str_sp": "military dispatch schematics"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "schematics_antimateriel",
+    "copy-from": "schematics_antimateriel",
+    "type": "ITEM",
+    "name": {
+      "str_sp": "anti-materiel turret schematics"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "schematics_searchlight",
+    "copy-from": "schematics_searchlight",
+    "type": "ITEM",
+    "name": {
+      "str_sp": "milspec searchlight schematics"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

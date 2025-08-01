@@ -1,0 +1,22 @@
+[
+  {
+    "id": "mag_launcher",
+    "copy-from": "mag_launcher",
+    "type": "ITEM",
+    "name": {
+      "str": "High Explosives Quarterly",
+      "str_pl": "issues of High Explosives Quarterly"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_launcher",
+    "copy-from": "manual_launcher",
+    "type": "ITEM",
+    "name": {
+      "str": "Jane's Mortars and Rocket Launchers",
+      "str_pl": "copies of Jane's Mortars and Rocket Launchers"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

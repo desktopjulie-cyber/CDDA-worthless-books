@@ -1,0 +1,150 @@
+[
+  {
+    "id": "child_book",
+    "copy-from": "child_book",
+    "type": "ITEM",
+    "name": {
+      "str": "children's book"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "fairy_tales",
+    "copy-from": "fairy_tales",
+    "type": "ITEM",
+    "name": {
+      "str": "book of fairy tales",
+      "str_pl": "books of fairy tales"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_ya_adrk",
+    "copy-from": "book_fict_soft_ya_adrk",
+    "type": "ITEM",
+    "name": {
+      "str": "The Adorkable Girl",
+      "str_pl": "copies of The Adorkable Girl"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_ya_bjak",
+    "copy-from": "book_fict_soft_ya_bjak",
+    "type": "ITEM",
+    "name": {
+      "str": "Becoming Jackson",
+      "str_pl": "copies of Becoming Jackson"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_ya_burn",
+    "copy-from": "book_fict_soft_ya_burn",
+    "type": "ITEM",
+    "name": {
+      "str": "Nothing Burned",
+      "str_pl": "copies of Nothing Burned"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_ya_hilo",
+    "copy-from": "book_fict_soft_ya_hilo",
+    "type": "ITEM",
+    "name": {
+      "str": "High and Low",
+      "str_pl": "copies of High and Low"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_ya_myeyes",
+    "copy-from": "book_fict_soft_ya_myeyes",
+    "type": "ITEM",
+    "name": {
+      "str": "Fire When You See My Eyes",
+      "str_pl": "copies of Fire When You See My Eyes"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_ya_pbbr",
+    "copy-from": "book_fict_soft_ya_pbbr",
+    "type": "ITEM",
+    "name": {
+      "str": "Peanut Butter Bruised",
+      "str_pl": "copies of Peanut Butter Bruised"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_ya_rwya",
+    "copy-from": "book_fict_soft_ya_rwya",
+    "type": "ITEM",
+    "name": {
+      "str": "Ready When You Are",
+      "str_pl": "copies of Ready When You Are"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_ya_sboy",
+    "copy-from": "book_fict_soft_ya_sboy",
+    "type": "ITEM",
+    "name": {
+      "str": "Study of a Boy",
+      "str_pl": "copies of Study of a Boy"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_ya_sumv",
+    "copy-from": "book_fict_soft_ya_sumv",
+    "type": "ITEM",
+    "name": {
+      "str": "Summer Variables",
+      "str_pl": "copies of Summer Variables"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_hard_ya_dark",
+    "copy-from": "book_fict_hard_ya_dark",
+    "type": "ITEM",
+    "name": {
+      "str": "In a Dark Place",
+      "str_pl": "copies of In a Dark Place"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_hard_ya_btwo",
+    "copy-from": "book_fict_hard_ya_btwo",
+    "type": "ITEM",
+    "name": {
+      "str": "Betrayal Takes Two",
+      "str_pl": "copies of Betrayal Takes Two"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_coa",
+    "copy-from": "novel_coa",
+    "type": "ITEM",
+    "name": {
+      "str": "coming of age novel"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_coa2",
+    "copy-from": "novel_coa2",
+    "type": "ITEM",
+    "name": {
+      "str": "Pantheon: The Story of an Iranian Youth",
+      "str_pl": "copies of Pantheon: The Story of an Iranian Youth"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

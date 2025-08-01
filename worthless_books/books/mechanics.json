@@ -1,0 +1,111 @@
+[
+  {
+    "id": "book_icef",
+    "copy-from": "book_icef",
+    "type": "ITEM",
+    "name": {
+      "str": "Internal Combustion Fundamentals",
+      "str_pl": "copies of Internal Combustion Fundamentals"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_pneumatics",
+    "copy-from": "book_pneumatics",
+    "type": "ITEM",
+    "name": {
+      "str": "Pneumatic Pnowledge",
+      "str_pl": "copies of Pneumatic Pnowledge"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "mag_fieldrepair",
+    "copy-from": "mag_fieldrepair",
+    "type": "ITEM",
+    "name": {
+      "str": "army improvised field repairs manual"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "mag_mechanics",
+    "copy-from": "mag_mechanics",
+    "type": "ITEM",
+    "name": {
+      "str": "Popular Mechanics",
+      "str_pl": "issues of Popular Mechanics"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_makerspace",
+    "copy-from": "manual_makerspace",
+    "type": "ITEM",
+    "name": {
+      "str": "makerspace kit instructions",
+      "str_pl": "copies of makerspace kit instructions"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_robotics_kit",
+    "copy-from": "manual_robotics_kit",
+    "type": "ITEM",
+    "name": {
+      "str": "robotics kit instructions",
+      "str_pl": "copies of robotics kit instructions"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_engine_kit",
+    "copy-from": "manual_engine_kit",
+    "type": "ITEM",
+    "name": {
+      "str": "Stirling engine kit instructions",
+      "str_pl": "copies of Stirling engine instructions"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_mechanics",
+    "copy-from": "manual_mechanics",
+    "type": "ITEM",
+    "name": {
+      "str": "Under the Hood",
+      "str_pl": "copies of Under the Hood"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_atomic_lab",
+    "copy-from": "textbook_atomic_lab",
+    "type": "ITEM",
+    "name": {
+      "str": "lab journal-Curie",
+      "str_pl": "lab journals-Curie"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_soft_mechnic_hotrod",
+    "copy-from": "book_nonf_soft_mechnic_hotrod",
+    "type": "ITEM",
+    "name": {
+      "str": "Hot Rod Chassis & Suspension Handbook",
+      "str_pl": "copies of Hot Rod Handbook"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_mechanics",
+    "copy-from": "textbook_mechanics",
+    "type": "ITEM",
+    "name": {
+      "str": "Mechanical Mastery",
+      "str_pl": "copies of Mechanical Mastery"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

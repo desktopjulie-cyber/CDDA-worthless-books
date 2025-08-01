@@ -1,0 +1,12 @@
+[
+  {
+    "id": "book_lockpick",
+    "copy-from": "book_lockpick",
+    "type": "ITEM",
+    "name": {
+      "str": "MIT Guide to Lock Picking",
+      "str_pl": "copies of MIT Guide to Lock Picking"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

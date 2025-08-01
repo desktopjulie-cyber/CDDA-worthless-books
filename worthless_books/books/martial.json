@@ -1,0 +1,284 @@
+[
+  {
+    "id": "manual_aikido",
+    "copy-from": "manual_aikido",
+    "type": "ITEM",
+    "name": {
+      "str": "The Spirit of Aikido",
+      "str_pl": "copies of The Spirit of Aikido"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_barbaran",
+    "copy-from": "manual_barbaran",
+    "type": "ITEM",
+    "name": {
+      "str": "Las Nueve Reglas de la Montante",
+      "str_pl": "copies of Las Nueve Reglas de la Montante",
+      "//~": "Don't translate name, this book is in archaic Spanish with translations in the margins."
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_boxing",
+    "copy-from": "manual_boxing",
+    "type": "ITEM",
+    "name": {
+      "str": "Practical Pugilism",
+      "str_pl": "copies of Practical Pugilism"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_capoeira",
+    "copy-from": "manual_capoeira",
+    "type": "ITEM",
+    "name": {
+      "str": "Capoeira 100",
+      "str_pl": "copies of Capoeira 100"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_crane",
+    "copy-from": "manual_crane",
+    "type": "ITEM",
+    "name": {
+      "str": "The Red Crane",
+      "str_pl": "copies of The Red Crane"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_dragon",
+    "copy-from": "manual_dragon",
+    "type": "ITEM",
+    "name": {
+      "str": "The Jade Dragon",
+      "str_pl": "copies of The Jade Dragon"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_eskrima",
+    "copy-from": "manual_eskrima",
+    "type": "ITEM",
+    "name": {
+      "str": "Practical Eskrima",
+      "str_pl": "copies of Practical Eskrima"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_fencing",
+    "copy-from": "manual_fencing",
+    "type": "ITEM",
+    "name": {
+      "str": "The Modern Swordsman",
+      "str_pl": "copies of The Modern Swordsman"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_judo",
+    "copy-from": "manual_judo",
+    "type": "ITEM",
+    "name": {
+      "str": "Kodokan Judo",
+      "str_pl": "copies of Kodokan Judo"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_karate",
+    "copy-from": "manual_karate",
+    "type": "ITEM",
+    "name": {
+      "str": "The Sh\u014dt\u014dkan Karate Handbook",
+      "str_pl": "copies of The Sh\u014dt\u014dkan Karate Handbook"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_bojutsu",
+    "copy-from": "manual_bojutsu",
+    "type": "ITEM",
+    "name": {
+      "str": "B\u014djutsu The Matsumoto System",
+      "str_pl": "copies of B\u014djutsu The Matsumoto System"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_kickboxing",
+    "copy-from": "manual_kickboxing",
+    "type": "ITEM",
+    "name": {
+      "str": "The Ultimate Guide to Kickboxing",
+      "str_pl": "copies of Ultimate Guide to Kickboxing"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_krav_maga",
+    "copy-from": "manual_krav_maga",
+    "type": "ITEM",
+    "name": {
+      "str": "Complete Krav Maga",
+      "str_pl": "copies of Complete Krav Maga"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_leopard",
+    "copy-from": "manual_leopard",
+    "type": "ITEM",
+    "name": {
+      "str": "The Deaf Leopard",
+      "str_pl": "copies of The Deaf Leopard"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_muay_thai",
+    "copy-from": "manual_muay_thai",
+    "type": "ITEM",
+    "name": {
+      "str": "Ultimate Muay Thai",
+      "str_pl": "copies of Ultimate Muay Thai"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_ninjutsu",
+    "copy-from": "manual_ninjutsu",
+    "type": "ITEM",
+    "name": {
+      "str": "Essence of Ninjutsu",
+      "str_pl": "copies of Essence of Ninjutsu"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_niten",
+    "copy-from": "manual_niten",
+    "type": "ITEM",
+    "name": {
+      "str": "The Book of Five Rings",
+      "str_pl": "copies of The Book of Five Rings"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_pankration",
+    "copy-from": "manual_pankration",
+    "type": "ITEM",
+    "name": {
+      "str": "The Modern Pankratiast",
+      "str_pl": "copies of The Modern Pankratiast"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_silat",
+    "copy-from": "manual_silat",
+    "type": "ITEM",
+    "name": {
+      "str": "The Indonesian Warrior",
+      "str_pl": "copies of The Indonesian Warrior"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_snake",
+    "copy-from": "manual_snake",
+    "type": "ITEM",
+    "name": {
+      "str": "The Black Snake",
+      "str_pl": "copies of The Black Snake"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_taekwondo",
+    "copy-from": "manual_taekwondo",
+    "type": "ITEM",
+    "name": {
+      "str": "Official Taekwondo Training Manual",
+      "str_pl": "copies of Official Taekwondo Training Manual"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_tai_chi",
+    "copy-from": "manual_tai_chi",
+    "type": "ITEM",
+    "name": {
+      "str": "Becoming One with the Tao",
+      "str_pl": "copies of Becoming One with the Tao"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_tiger",
+    "copy-from": "manual_tiger",
+    "type": "ITEM",
+    "name": {
+      "str": "The White Tiger",
+      "str_pl": "copies of The White Tiger"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_zui_quan",
+    "copy-from": "manual_zui_quan",
+    "type": "ITEM",
+    "name": {
+      "str": "Zui Quan and You",
+      "str_pl": "copies of Zui Quan and You"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_sojutsu",
+    "copy-from": "manual_sojutsu",
+    "type": "ITEM",
+    "name": {
+      "str": "The Way of the Spear",
+      "str_pl": "copies of The Way of the Spear"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_wingchun",
+    "copy-from": "manual_wingchun",
+    "type": "ITEM",
+    "name": {
+      "str": "Beautiful Springtime",
+      "str_pl": "copies of Beautiful Springtime"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_medievalpole",
+    "copy-from": "manual_medievalpole",
+    "type": "ITEM",
+    "name": {
+      "ctxt": "book",
+      "str": "Fior Di Battaglia",
+      "str_pl": "copies of Fior Di Battaglia"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_swordsmanship",
+    "copy-from": "manual_swordsmanship",
+    "type": "ITEM",
+    "name": {
+      "str": "Historic European Swordfighting",
+      "str_pl": "copies of Historic European Swordfighting"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

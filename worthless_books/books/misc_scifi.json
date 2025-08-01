@@ -1,0 +1,121 @@
+[
+  {
+    "id": "novel_scifi",
+    "copy-from": "novel_scifi",
+    "type": "ITEM",
+    "name": {
+      "str": "scifi novel"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_scifi_dune",
+    "copy-from": "book_fict_soft_scifi_dune",
+    "type": "ITEM",
+    "name": {
+      "str": "Dune",
+      "str_pl": "copies of Dune"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_hard_scifi_dune",
+    "copy-from": "book_fict_hard_scifi_dune",
+    "type": "ITEM",
+    "name": {
+      "str": "Dune",
+      "str_pl": "copies of Dune"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_hard_scifi_talnt",
+    "copy-from": "book_fict_hard_scifi_talnt",
+    "type": "ITEM",
+    "name": {
+      "str": "Parable of the Talents",
+      "str_pl": "copies of Parable of the Talents"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_hard_scifi_fifth",
+    "copy-from": "book_fict_hard_scifi_fifth",
+    "type": "ITEM",
+    "name": {
+      "str": "The Fifth Season",
+      "str_pl": "signed copies of Fifth Season"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_hard_scifi_zamwe",
+    "copy-from": "book_fict_hard_scifi_zamwe",
+    "type": "ITEM",
+    "name": {
+      "str": "We",
+      "str_pl": "copies of We"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_scifi_zamwe",
+    "copy-from": "book_fict_soft_scifi_zamwe",
+    "type": "ITEM",
+    "name": {
+      "str": "We",
+      "str_pl": "copies of We"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_scifi_cybrd",
+    "copy-from": "book_fict_soft_scifi_cybrd",
+    "type": "ITEM",
+    "name": {
+      "str": "The Cyberiad",
+      "str_pl": "copies of The Cyberiad"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_scifi_brave",
+    "copy-from": "book_fict_soft_scifi_brave",
+    "type": "ITEM",
+    "name": {
+      "str": "Brave New World",
+      "str_pl": "copies of Brave New World"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_scifi_roadp",
+    "copy-from": "book_fict_soft_scifi_roadp",
+    "type": "ITEM",
+    "name": {
+      "str": "Roadside Picnic",
+      "str_pl": "copies of Roadside Picnic"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_scifi_f451",
+    "copy-from": "book_fict_soft_scifi_f451",
+    "type": "ITEM",
+    "name": {
+      "str": "Fahrenheit 451",
+      "str_pl": "copies of Fahrenheit 451"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_docu_AWT",
+    "copy-from": "book_fict_soft_docu_AWT",
+    "type": "ITEM",
+    "name": {
+      "str": "All Things Weird",
+      "str_pl": "copies of All Things Weird"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

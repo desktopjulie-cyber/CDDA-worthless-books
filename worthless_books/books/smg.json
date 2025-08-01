@@ -1,0 +1,22 @@
+[
+  {
+    "id": "mag_smg",
+    "copy-from": "mag_smg",
+    "type": "ITEM",
+    "name": {
+      "str": "Submachine Gun Enthusiast",
+      "str_pl": "issues of Submachine Gun Enthusiast"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_smg",
+    "copy-from": "manual_smg",
+    "type": "ITEM",
+    "name": {
+      "str": "The Submachine Gun Handbook",
+      "str_pl": "copies of The Submachine Gun Handbook"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

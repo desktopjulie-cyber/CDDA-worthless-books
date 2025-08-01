@@ -1,0 +1,222 @@
+[
+  {
+    "id": "book_nonf_hard_homemk_anythingcan",
+    "copy-from": "book_nonf_hard_homemk_anythingcan",
+    "type": "ITEM",
+    "name": {
+      "str": "Anything Can Be Beautiful",
+      "str_pl": "copies of Anything Can Be Beautiful"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_hard_homemk_grtrms",
+    "copy-from": "book_nonf_hard_homemk_grtrms",
+    "type": "ITEM",
+    "name": {
+      "str": "The Greatest Rooms of the Century",
+      "str_pl": "copies of The Greatest Rooms of the Century"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_hard_homemk_handshome",
+    "copy-from": "book_nonf_hard_homemk_handshome",
+    "type": "ITEM",
+    "name": {
+      "str": "The Hands-On Home",
+      "str_pl": "copies of The Hands-On Home"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_hard_homemk_loverms",
+    "copy-from": "book_nonf_hard_homemk_loverms",
+    "type": "ITEM",
+    "name": {
+      "str": "Rooms We Love",
+      "str_pl": "copies of Rooms We Love"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_hard_homemk_nyparti",
+    "copy-from": "book_nonf_hard_homemk_nyparti",
+    "type": "ITEM",
+    "name": {
+      "str": "New York Parties",
+      "str_pl": "copies of New York Parties"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_hard_homemk_outkitchn",
+    "copy-from": "book_nonf_hard_homemk_outkitchn",
+    "type": "ITEM",
+    "name": {
+      "str": "Best Signature Outdoor Kitchens",
+      "str_pl": "copies of Best Signature Outdoor Kitchens"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_hard_homemk_plantshome",
+    "copy-from": "book_nonf_hard_homemk_plantshome",
+    "type": "ITEM",
+    "name": {
+      "str": "The Art of Using Plants to Transform Your Home",
+      "str_pl": "copies of The Art of Using Plants to Transform Your Home"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_hard_homemk_wmencolor",
+    "copy-from": "book_nonf_hard_homemk_wmencolor",
+    "type": "ITEM",
+    "name": {
+      "str": "Woman of Color",
+      "str_pl": "copies of Woman of Color"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_soft_wedding_coolring",
+    "copy-from": "book_nonf_soft_wedding_coolring",
+    "type": "ITEM",
+    "name": {
+      "str": "10 Cool Things About Being A Ring Bearer",
+      "str_pl": "copies of 10 Cool Things About Being A Ring Bearer"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_soft_parent_howtogen",
+    "copy-from": "book_nonf_soft_parent_howtogen",
+    "type": "ITEM",
+    "name": {
+      "str": "How to Raise a Gentleman: A Civilized Guide to Parenting",
+      "str_pl": "copies of How to Raise a Gentleman: A Civilized Guide to Parenting"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_soft_safety_radiaea",
+    "copy-from": "book_nonf_soft_safety_radiaea",
+    "type": "ITEM",
+    "name": {
+      "str": "International Approaches to Securing Radioactive Sources Against Terrorism",
+      "str_pl": "copies of International Approaches to Securing Radioactive Sources Against Terrorism"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_hard_psych_forpsych",
+    "copy-from": "book_nonf_hard_psych_forpsych",
+    "type": "ITEM",
+    "name": {
+      "str": "Principles of Forensic Psychiatry",
+      "str_pl": "copies of Principles of Forensic Psychiatry"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_hard_psych_grconres",
+    "copy-from": "book_nonf_hard_psych_grconres",
+    "type": "ITEM",
+    "name": {
+      "str": "The Guide to Reflective Conflict Resolution",
+      "str_pl": "copies of The Guide to Reflective Conflict Resolution"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_hard_psych_moodalm",
+    "copy-from": "book_nonf_hard_psych_moodalm",
+    "type": "ITEM",
+    "name": {
+      "str": "The Oxbridge Handbook of Mood Ailments",
+      "str_pl": "copies of The Oxbridge Handbook of Mood Ailments"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_hard_psych_phonodis",
+    "copy-from": "book_nonf_hard_psych_phonodis",
+    "type": "ITEM",
+    "name": {
+      "str": "Phonological Acquisition and Disorders",
+      "str_pl": "copies of Phonological Acquisition and Disorders"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_hard_psych_thergar",
+    "copy-from": "book_nonf_hard_psych_thergar",
+    "type": "ITEM",
+    "name": {
+      "str": "Therapeutic Gardens and Healing Spaces",
+      "str_pl": "copies of Therapeutic Gardens and Healing Spaces"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_soft_psych_adrugds",
+    "copy-from": "book_nonf_soft_psych_adrugds",
+    "type": "ITEM",
+    "name": {
+      "str": "Advances in Drug Delivery Systems",
+      "str_pl": "copies of Advances in Drug Delivery Systems"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_soft_psych_arteatds",
+    "copy-from": "book_nonf_soft_psych_arteatds",
+    "type": "ITEM",
+    "name": {
+      "str": "Using Art to Treat Eating Disorders",
+      "str_pl": "copies of Using Art to Treat Eating Disorders"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_soft_psych_cggamers",
+    "copy-from": "book_nonf_soft_psych_cggamers",
+    "type": "ITEM",
+    "name": {
+      "str": "A Clinical Guide to Video Gamers",
+      "str_pl": "copies of A Clinical Guide to Video Gamers"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_soft_psych_paranoia",
+    "copy-from": "book_nonf_soft_psych_paranoia",
+    "type": "ITEM",
+    "name": {
+      "str": "Paranoia and the History of Madness",
+      "str_pl": "copies of Paranoia and the History of Madness"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_soft_psych_psycolo",
+    "copy-from": "book_nonf_soft_psych_psycolo",
+    "type": "ITEM",
+    "name": {
+      "str": "Psychoanalysis and Colonialism",
+      "str_pl": "copies of Psychoanalysis and Colonialism"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_soft_psych_psycstlk",
+    "copy-from": "book_nonf_soft_psych_psycstlk",
+    "type": "ITEM",
+    "name": {
+      "str": "The Psychology of Stalking",
+      "str_pl": "copies of The Psychology of Stalking"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

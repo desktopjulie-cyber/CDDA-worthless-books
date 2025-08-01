@@ -1,0 +1,52 @@
+[
+  {
+    "id": "mag_tv",
+    "copy-from": "mag_tv",
+    "type": "ITEM",
+    "name": {
+      "str": "US Weekly",
+      "str_pl": "US Weeklies"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_speech",
+    "copy-from": "manual_speech",
+    "type": "ITEM",
+    "name": {
+      "str": "Self-Esteem for Dummies",
+      "str_pl": "copies of Self-Esteem for Dummies"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_speech",
+    "copy-from": "textbook_speech",
+    "type": "ITEM",
+    "name": {
+      "str": "Principles of Effective Communication",
+      "str_pl": "copies of Principles of Effective Communication"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "dnd_handbook",
+    "copy-from": "dnd_handbook",
+    "type": "ITEM",
+    "name": {
+      "str": "Dungeon Master's Guide: 6th Edition",
+      "str_pl": "copies of Dungeon Master's Guide: 6th Edition"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_soft_speech_naillaw",
+    "copy-from": "book_nonf_soft_speech_naillaw",
+    "type": "ITEM",
+    "name": {
+      "str": "Nail Your Law Firm Interview",
+      "str_pl": "copies of Nail Your Law Firm Interview"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

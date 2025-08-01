@@ -1,0 +1,41 @@
+[
+  {
+    "id": "decoy_anarch",
+    "copy-from": "decoy_anarch",
+    "type": "ITEM",
+    "name": {
+      "str": "AAA Guide",
+      "str_pl": "copies of AAA Guide"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "mag_cars",
+    "copy-from": "mag_cars",
+    "type": "ITEM",
+    "name": {
+      "str": "Top Gear magazine"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_driving",
+    "copy-from": "manual_driving",
+    "type": "ITEM",
+    "name": {
+      "str": "The Rules of the Road",
+      "str_pl": "copies of The Rules of the Road"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_anarch",
+    "copy-from": "textbook_anarch",
+    "type": "ITEM",
+    "name": {
+      "str": "AAA Guide",
+      "str_pl": "copies of AAA Guide"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

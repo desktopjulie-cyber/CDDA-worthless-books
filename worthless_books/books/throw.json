@@ -1,0 +1,22 @@
+[
+  {
+    "id": "mag_throwing",
+    "copy-from": "mag_throwing",
+    "type": "ITEM",
+    "name": {
+      "str": "Diskobolus",
+      "str_pl": "issues of Diskobolus"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_throw",
+    "copy-from": "manual_throw",
+    "type": "ITEM",
+    "name": {
+      "str": "The Complete Guide to Pitching",
+      "str_pl": "copies of The Complete Guide to Pitching"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

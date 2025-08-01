@@ -1,0 +1,22 @@
+[
+  {
+    "id": "mag_bashing",
+    "copy-from": "mag_bashing",
+    "type": "ITEM",
+    "name": {
+      "str": "Batter Up!",
+      "str_pl": "issues of Batter Up!"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_bashing",
+    "copy-from": "manual_bashing",
+    "type": "ITEM",
+    "name": {
+      "str": "tactical baton defense manual",
+      "str_pl": "copies of tactical baton defense manual"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

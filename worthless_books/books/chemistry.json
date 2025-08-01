@@ -1,0 +1,191 @@
+[
+  {
+    "id": "adv_chemistry",
+    "copy-from": "adv_chemistry",
+    "type": "ITEM",
+    "name": {
+      "str": "Advanced Physical Chemistry",
+      "str_pl": "copies of Advanced Physical Chemistry"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "modern_tanner",
+    "copy-from": "modern_tanner",
+    "type": "ITEM",
+    "name": {
+      "str": "The Modern Tanner",
+      "str_pl": "copies of The Modern Tanner"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "recipe_alpha",
+    "copy-from": "recipe_alpha",
+    "type": "ITEM",
+    "name": {
+      "str": "PE050 \"Alpha\": Preliminary Report",
+      "str_pl": "copies of PE050 \"Alpha\": Preliminary Report"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "recipe_animal",
+    "copy-from": "recipe_animal",
+    "type": "ITEM",
+    "name": {
+      "str": "lab journal-Dionne",
+      "str_pl": "lab journals-Dionne"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "recipe_chimera",
+    "copy-from": "recipe_chimera",
+    "type": "ITEM",
+    "name": {
+      "str": "PE065 \"Chimera\": Best Practices",
+      "str_pl": "copies of PE065 \"Chimera\": Best Practices"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "recipe_creepy",
+    "copy-from": "recipe_creepy",
+    "type": "ITEM",
+    "name": {
+      "str": "lab journal-Smythe",
+      "str_pl": "lab journals-Smythe"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "recipe_elfa",
+    "copy-from": "recipe_elfa",
+    "type": "ITEM",
+    "name": {
+      "str": "standpipe maintenance log"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "recipe_labchem",
+    "copy-from": "recipe_labchem",
+    "type": "ITEM",
+    "name": {
+      "str": "chemical reference-CLASSIFIED",
+      "str_pl": "chemical references-CLASSIFIED"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "recipe_maiar",
+    "copy-from": "recipe_maiar",
+    "type": "ITEM",
+    "name": {
+      "str": "lab journal-x-|xp",
+      "str_pl": "lab journals-x-|xp"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "recipe_medicalmut",
+    "copy-from": "recipe_medicalmut",
+    "type": "ITEM",
+    "name": {
+      "str": "PE023 \"Medical\": Application and Findings",
+      "str_pl": "copies of PE023 \"Medical\": Application and Findings"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "recipe_raptor",
+    "copy-from": "recipe_raptor",
+    "type": "ITEM",
+    "name": {
+      "str": "PE070 \"Raptor\": Proposal",
+      "str_pl": "copies of PE070 \"Raptor\": Proposal"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "recipe_serum",
+    "copy-from": "recipe_serum",
+    "type": "ITEM",
+    "name": {
+      "str": "Best Practices for Compound Delivery",
+      "str_pl": "copies of Best Practices for Compound Delivery"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "reference_cooking",
+    "copy-from": "reference_cooking",
+    "type": "ITEM",
+    "name": {
+      "str": "CRC-Merck Handbook, 4th edition",
+      "str_pl": "copies of CRC-Merck Handbook, 4th edition"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_chemistry",
+    "copy-from": "textbook_chemistry",
+    "type": "ITEM",
+    "name": {
+      "str": "chemistry textbook",
+      "str_pl": "copies of chemistry textbook"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_extraction",
+    "copy-from": "textbook_extraction",
+    "type": "ITEM",
+    "name": {
+      "str": "The Essential Oil Enthusiasts Handbook",
+      "str_pl": "copies of The Essential Oil Enthusiasts Handbook"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_gaswarfare",
+    "copy-from": "textbook_gaswarfare",
+    "type": "ITEM",
+    "name": {
+      "str": "Art and Science of Chemical Warfare",
+      "str_pl": "copies of Art and Science of Chemical Warfare"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "basic_chemistry",
+    "copy-from": "basic_chemistry",
+    "type": "ITEM",
+    "name": {
+      "str": "Chemistry for Kids: Awesome Science Experiments that Really Work",
+      "str_pl": "copies of Chemistry for Kids: Awesome Science Experiments that Really Work"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "catalytic_cracking_handbook",
+    "copy-from": "catalytic_cracking_handbook",
+    "type": "ITEM",
+    "name": {
+      "str": "Catalytic Cracking at Home for Solarpunks",
+      "str_pl": "copies of Catalytic Cracking at Home for Solarpunks"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_biodiesel",
+    "copy-from": "textbook_biodiesel",
+    "type": "ITEM",
+    "name": {
+      "str": "Biodiesel: Renewable Fuel Resource",
+      "str_pl": "copies of Biodiesel: Renewable Fuel Resource"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

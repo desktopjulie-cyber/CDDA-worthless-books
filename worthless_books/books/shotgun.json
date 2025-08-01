@@ -1,0 +1,22 @@
+[
+  {
+    "id": "mag_shotgun",
+    "copy-from": "mag_shotgun",
+    "type": "ITEM",
+    "name": {
+      "str": "Trap and Field",
+      "str_pl": "issues of Trap and Field"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_shotgun",
+    "copy-from": "manual_shotgun",
+    "type": "ITEM",
+    "name": {
+      "str": "Shotguns: The Art and Science",
+      "str_pl": "copies of Shotguns: The Art and Science"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

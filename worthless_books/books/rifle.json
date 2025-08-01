@@ -1,0 +1,31 @@
+[
+  {
+    "id": "mag_rifle",
+    "copy-from": "mag_rifle",
+    "type": "ITEM",
+    "name": {
+      "str": "Modern Rifleman",
+      "str_pl": "issues of Modern Rifleman"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_rifle",
+    "copy-from": "manual_rifle",
+    "type": "ITEM",
+    "name": {
+      "str": "FM 23-16 Army marksmanship manual"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "retool_instructions",
+    "copy-from": "retool_instructions",
+    "type": "ITEM",
+    "name": {
+      "str": "retool instructions",
+      "str_pl": "copies of retool instructions"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

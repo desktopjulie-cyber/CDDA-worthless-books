@@ -1,0 +1,101 @@
+[
+  {
+    "id": "book_newage_generic",
+    "copy-from": "book_newage_generic",
+    "type": "ITEM",
+    "name": {
+      "str": "new-age book"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_newage_inpsychic",
+    "copy-from": "book_newage_inpsychic",
+    "type": "ITEM",
+    "name": {
+      "str": "Your Inner Psychic",
+      "str_pl": "copies of Your Inner Psychic"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_newage_healcrystals",
+    "copy-from": "book_newage_healcrystals",
+    "type": "ITEM",
+    "name": {
+      "str": "The Healing Power of Crystals",
+      "str_pl": "copies of The Healing Power of Crystals"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_newage_oilsecrets",
+    "copy-from": "book_newage_oilsecrets",
+    "type": "ITEM",
+    "name": {
+      "str": "Essential Secrets",
+      "str_pl": "copies of Essential Secrets"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_newage_witchcraftbeg",
+    "copy-from": "book_newage_witchcraftbeg",
+    "type": "ITEM",
+    "name": {
+      "str": "Witchcraft for Beginners",
+      "str_pl": "copies of Witchcraft for Beginners"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_newage_witchcraftadv",
+    "copy-from": "book_newage_witchcraftadv",
+    "type": "ITEM",
+    "name": {
+      "str": "Advanced Witchcraft",
+      "str_pl": "copies of Advanced Witchcraft"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_newage_beyondveil",
+    "copy-from": "book_newage_beyondveil",
+    "type": "ITEM",
+    "name": {
+      "str": "Beyond The Veil",
+      "str_pl": "copies of Beyond The Veil"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_newage_weapcrys",
+    "copy-from": "book_newage_weapcrys",
+    "type": "ITEM",
+    "name": {
+      "str": "Weaponizing Crystals",
+      "str_pl": "copies of Weaponizing Crystals"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_newage_aliens",
+    "copy-from": "book_newage_aliens",
+    "type": "ITEM",
+    "name": {
+      "str": "Ancient Alien Secrets",
+      "str_pl": "copies of Ancient Alien Secrets"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_newage_horoscopes",
+    "copy-from": "book_newage_horoscopes",
+    "type": "ITEM",
+    "name": {
+      "str": "Your Year in Horoscopes",
+      "str_pl": "copies of Your Year in Horoscopes"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "mag_dodge",
+    "copy-from": "mag_dodge",
+    "type": "ITEM",
+    "name": {
+      "str": "Dance Dance Dance!",
+      "str_pl": "issues of Dance Dance Dance!"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_dodge",
+    "copy-from": "manual_dodge",
+    "type": "ITEM",
+    "name": {
+      "str": "The Book of Dances",
+      "str_pl": "copies of The Book of Dances"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_dodge_kid",
+    "copy-from": "manual_dodge_kid",
+    "type": "ITEM",
+    "name": {
+      "str": "Break a Leg!",
+      "str_pl": "copies of Break a Leg!"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_hard_dodge_tlwd",
+    "copy-from": "book_nonf_hard_dodge_tlwd",
+    "type": "ITEM",
+    "name": {
+      "str": "Treasury of Legends about Western Dancing",
+      "str_pl": "copies of Western Dancing"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

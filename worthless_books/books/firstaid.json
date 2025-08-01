@@ -1,0 +1,92 @@
+[
+  {
+    "id": "emergency_book",
+    "copy-from": "emergency_book",
+    "type": "ITEM",
+    "name": {
+      "str": "Guide to Advanced Emergency Care",
+      "str_pl": "copies of Guide to Advanced Emergency Care"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "mag_firstaid",
+    "copy-from": "mag_firstaid",
+    "type": "ITEM",
+    "name": {
+      "str": "Paramedics",
+      "str_pl": "issues of Paramedics"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_first_aid",
+    "copy-from": "manual_first_aid",
+    "type": "ITEM",
+    "name": {
+      "str": "The Big Book of First Aid",
+      "str_pl": "copies of The Big Book of First Aid"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "pocket_firstaid",
+    "copy-from": "pocket_firstaid",
+    "type": "ITEM",
+    "name": {
+      "str": "Pocket Guide to First Aid",
+      "str_pl": "copies of Pocket Guide to First Aid"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_firstaid",
+    "copy-from": "textbook_firstaid",
+    "type": "ITEM",
+    "name": {
+      "str": "First Responder Handbook",
+      "str_pl": "copies of First Responder Handbook"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "booklet_firstaid",
+    "copy-from": "booklet_firstaid",
+    "type": "ITEM",
+    "name": {
+      "str": "First Aid Kit Instruction Booklet",
+      "str_pl": "copies of First Aid Kit Instruction Booklet"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "reference_firstaid1",
+    "copy-from": "reference_firstaid1",
+    "type": "ITEM",
+    "name": {
+      "str": "Physicians' Desk Reference",
+      "str_pl": "copies of Physicians' Desk Reference"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "reference_firstaid2",
+    "copy-from": "reference_firstaid2",
+    "type": "ITEM",
+    "name": {
+      "str": "Merck Veterinary Manual",
+      "str_pl": "copies of Merck Veterinary Manual"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_toxicology",
+    "copy-from": "textbook_toxicology",
+    "type": "ITEM",
+    "name": {
+      "str": "Textbook of Advanced Toxicology",
+      "str_pl": "copies of Textbook of Advanced Toxicology"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

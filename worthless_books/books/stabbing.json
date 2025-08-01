@@ -1,0 +1,30 @@
+[
+  {
+    "id": "mag_stabbing",
+    "copy-from": "mag_stabbing",
+    "type": "ITEM",
+    "name": {
+      "str": "Duelist's Annual"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_stabbing",
+    "copy-from": "manual_stabbing",
+    "type": "ITEM",
+    "name": {
+      "str": "FM 23-25 Army bayonet manual"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_knives",
+    "copy-from": "manual_knives",
+    "type": "ITEM",
+    "name": {
+      "str": "Spetsnaz Knife Techniques",
+      "str_pl": "copies of Spetsnaz Knife Techniques"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

@@ -1,0 +1,823 @@
+[
+  {
+    "id": "ZSG",
+    "copy-from": "ZSG",
+    "type": "ITEM",
+    "name": {
+      "str": "Zombie Survival Guide",
+      "str_pl": "copies of Zombie Survival Guide"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "black_box_transcript",
+    "copy-from": "black_box_transcript",
+    "type": "ITEM",
+    "name": {
+      "str": "black box transcript"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "commune_prospectus",
+    "copy-from": "commune_prospectus",
+    "type": "ITEM",
+    "name": {
+      "str_sp": "Ranch Prospectus"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "decoy_elfa",
+    "copy-from": "decoy_elfa",
+    "type": "ITEM",
+    "name": {
+      "str": "standpipe maintenance log"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "essay_book",
+    "copy-from": "essay_book",
+    "type": "ITEM",
+    "name": {
+      "str": "book of essays",
+      "str_pl": "books of essays"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "guidebook",
+    "copy-from": "guidebook",
+    "type": "ITEM",
+    "name": {
+      "str": "The Hitchhiker's Guide to the Cataclysm",
+      "str_pl": "copies of The Hitchhiker's Guide to the Cataclysm"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "mag_comic",
+    "copy-from": "mag_comic",
+    "type": "ITEM",
+    "name": {
+      "str": "comic book"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "mag_gaming",
+    "copy-from": "mag_gaming",
+    "type": "ITEM",
+    "name": {
+      "str": "Computer Gaming",
+      "str_pl": "issues of Computer Gaming"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "mag_news",
+    "copy-from": "mag_news",
+    "type": "ITEM",
+    "name": {
+      "str": "TIME magazine"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_nonf_zine_news_anlyst",
+    "copy-from": "book_nonf_zine_news_anlyst",
+    "type": "ITEM",
+    "name": {
+      "str": "The Analyst",
+      "str_pl": "issues of The Analyst"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "mag_porn",
+    "copy-from": "mag_porn",
+    "type": "ITEM",
+    "name": {
+      "str": "Playboy",
+      "str_pl": "issues of Playboy"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "news_regional",
+    "copy-from": "news_regional",
+    "type": "ITEM",
+    "name": {
+      "str": "Rural Digest-Examiner",
+      "str_pl": "issues of Rural Digest-Examiner"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_adventure",
+    "copy-from": "novel_adventure",
+    "type": "ITEM",
+    "name": {
+      "str": "adventure novel"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_buddy",
+    "copy-from": "novel_buddy",
+    "type": "ITEM",
+    "name": {
+      "str": "buddy novel"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_crime",
+    "copy-from": "novel_crime",
+    "type": "ITEM",
+    "name": {
+      "str": "crime novel"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_crime2",
+    "copy-from": "novel_crime2",
+    "type": "ITEM",
+    "name": {
+      "str": "crime novel"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_crime_murdergrape",
+    "copy-from": "novel_crime_murdergrape",
+    "type": "ITEM",
+    "name": {
+      "str": "Murdered by the Grapevine",
+      "str_pl": "copies of Murdered by the Grapevine"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_crime_midnight",
+    "copy-from": "novel_crime_midnight",
+    "type": "ITEM",
+    "name": {
+      "str": "Midnight Cop",
+      "str_pl": "copies of Midnight Cop"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_drama",
+    "copy-from": "novel_drama",
+    "type": "ITEM",
+    "name": {
+      "str": "drama novel"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_erotic",
+    "copy-from": "novel_erotic",
+    "type": "ITEM",
+    "name": {
+      "str": "erotic novel"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_experimental",
+    "copy-from": "novel_experimental",
+    "type": "ITEM",
+    "name": {
+      "str": "experimental novel"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_fantasy",
+    "copy-from": "novel_fantasy",
+    "type": "ITEM",
+    "name": {
+      "str": "fantasy novel"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_horror",
+    "copy-from": "novel_horror",
+    "type": "ITEM",
+    "name": {
+      "str": "horror novel"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_mystery",
+    "copy-from": "novel_mystery",
+    "type": "ITEM",
+    "name": {
+      "str": "mystery novel"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_road",
+    "copy-from": "novel_road",
+    "type": "ITEM",
+    "name": {
+      "str": "road novel"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_west_gore",
+    "copy-from": "book_fict_soft_west_gore",
+    "type": "ITEM",
+    "name": {
+      "str": "Gore Longitude",
+      "str_pl": "copies of Gore Longitude"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_romance",
+    "copy-from": "novel_romance",
+    "type": "ITEM",
+    "name": {
+      "str": "romance novel"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "paperback_romance_circuses",
+    "copy-from": "paperback_romance_circuses",
+    "type": "ITEM",
+    "name": {
+      "str": "Love and Circuses",
+      "str_pl": "copies of Love and Circuses"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "paperback_romance_cloven",
+    "copy-from": "paperback_romance_cloven",
+    "type": "ITEM",
+    "name": {
+      "str": "Cloven Kisses",
+      "str_pl": "copies of Cloven Kisses"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "paperback_romance_conq",
+    "copy-from": "paperback_romance_conq",
+    "type": "ITEM",
+    "name": {
+      "str": "Conquer Me Sweetly",
+      "str_pl": "copies of Conquer Me Sweetly"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "paperback_romance_dd",
+    "copy-from": "paperback_romance_dd",
+    "type": "ITEM",
+    "name": {
+      "str": "Dubliner's Debutante",
+      "str_pl": "copies of Dubliner's Debutante"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "paperback_romance_diodes",
+    "copy-from": "paperback_romance_diodes",
+    "type": "ITEM",
+    "name": {
+      "str": "Blood Diodes",
+      "str_pl": "copies of Blood Diodes"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "paperback_romance_envyh",
+    "copy-from": "paperback_romance_envyh",
+    "type": "ITEM",
+    "name": {
+      "str": "Envying Heaven",
+      "str_pl": "copies of Envying Heaven"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "paperback_romance_grue",
+    "copy-from": "paperback_romance_grue",
+    "type": "ITEM",
+    "name": {
+      "str": "Tall, Dark, and Gruesome",
+      "str_pl": "copies of Tall, Dark, and Gruesome"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "paperback_romance_rider",
+    "copy-from": "paperback_romance_rider",
+    "type": "ITEM",
+    "name": {
+      "str": "Along Came a Rider",
+      "str_pl": "copies of Along Came a Rider"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "paperback_romance_rogue",
+    "copy-from": "paperback_romance_rogue",
+    "type": "ITEM",
+    "name": {
+      "str": "Rogue's Virtue",
+      "str_pl": "copies of Rogue's Virtue"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "paperback_romance_secret",
+    "copy-from": "paperback_romance_secret",
+    "type": "ITEM",
+    "name": {
+      "str": "The Death of My Secret Life",
+      "str_pl": "copies of The Death of My Secret Life"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_samurai",
+    "copy-from": "novel_samurai",
+    "type": "ITEM",
+    "name": {
+      "str": "samurai novel"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_satire",
+    "copy-from": "novel_satire",
+    "type": "ITEM",
+    "name": {
+      "str": "satire novel"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_satire_hgod",
+    "copy-from": "book_fict_soft_satire_hgod",
+    "type": "ITEM",
+    "name": {
+      "str": "The House of God",
+      "str_pl": "copies of The House of God"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_satire_catch",
+    "copy-from": "book_fict_soft_satire_catch",
+    "type": "ITEM",
+    "name": {
+      "str": "Catch-22",
+      "str_pl": "copies of Catch-22"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_satire_mandm",
+    "copy-from": "book_fict_soft_satire_mandm",
+    "type": "ITEM",
+    "name": {
+      "str": "The Master and Margarita",
+      "str_pl": "copies of Master and Margarita"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_satire_dust",
+    "copy-from": "book_fict_soft_satire_dust",
+    "type": "ITEM",
+    "name": {
+      "str": "A Handful of Dust",
+      "str_pl": "copies of A Handful of Dust"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_satire_cats",
+    "copy-from": "book_fict_soft_satire_cats",
+    "type": "ITEM",
+    "name": {
+      "str": "Cat's Cradle",
+      "str_pl": "copies of Cat's Cradle"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_spy",
+    "copy-from": "novel_spy",
+    "type": "ITEM",
+    "name": {
+      "str": "spy novel"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_spy_comefly",
+    "copy-from": "novel_spy_comefly",
+    "type": "ITEM",
+    "name": {
+      "str": "Come Fly the Treacherous Skies",
+      "str_pl": "copies of Come Fly the Treacherous Skies"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_spy_rocketsci",
+    "copy-from": "novel_spy_rocketsci",
+    "type": "ITEM",
+    "name": {
+      "str": "Lies, Damn Lies, and Rocket Science",
+      "str_pl": "copies of Lies, Damn Lies, and Rocket Science"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_swash",
+    "copy-from": "novel_swash",
+    "type": "ITEM",
+    "name": {
+      "str": "swashbuckling novel"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_swash_blkfreight",
+    "copy-from": "book_fict_soft_swash_blkfreight",
+    "type": "ITEM",
+    "name": {
+      "str": "The Black Freighter",
+      "str_pl": "copies of The Black Freighter"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_swash_searovers",
+    "copy-from": "book_fict_soft_swash_searovers",
+    "type": "ITEM",
+    "name": {
+      "str": "Captain Gosnold and the Sea Rovers of Buzzards Bay",
+      "str_pl": "copies of The Sea Rovers"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_swash_buccaneer",
+    "copy-from": "book_fict_soft_swash_buccaneer",
+    "type": "ITEM",
+    "name": {
+      "str": "The Code of the Buccaneer",
+      "str_pl": "copies of The Buccaneer"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_thriller",
+    "copy-from": "novel_thriller",
+    "type": "ITEM",
+    "name": {
+      "str": "thriller novel"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_tragedy",
+    "copy-from": "novel_tragedy",
+    "type": "ITEM",
+    "name": {
+      "str": "tragedy novel"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_war",
+    "copy-from": "novel_war",
+    "type": "ITEM",
+    "name": {
+      "str": "war novel"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_war2",
+    "copy-from": "novel_war2",
+    "type": "ITEM",
+    "name": {
+      "str": "war novel"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "novel_western",
+    "copy-from": "novel_western",
+    "type": "ITEM",
+    "name": {
+      "str": "western novel"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_west_atwixt",
+    "copy-from": "book_fict_soft_west_atwixt",
+    "type": "ITEM",
+    "name": {
+      "str": "Atwixt a Brace of Cacti",
+      "str_pl": "copies of Atwixt a Brace of Cacti"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_west_bart",
+    "copy-from": "book_fict_soft_west_bart",
+    "type": "ITEM",
+    "name": {
+      "str": "Stinky Bart Puts on Starch",
+      "str_pl": "copies of Stinky Bart Puts on Starch"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_west_beans",
+    "copy-from": "book_fict_soft_west_beans",
+    "type": "ITEM",
+    "name": {
+      "str": "Six Beans in the Wheel",
+      "str_pl": "copies of Six Beans in the Wheel"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_west_calico",
+    "copy-from": "book_fict_soft_west_calico",
+    "type": "ITEM",
+    "name": {
+      "str": "Irons at Calico Queen Annex",
+      "str_pl": "copies of Irons at Calico Queen Annex"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_west_riot",
+    "copy-from": "book_fict_soft_west_riot",
+    "type": "ITEM",
+    "name": {
+      "str": "Riot on the Range",
+      "str_pl": "copies of Riot on the Range"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_west_vaq",
+    "copy-from": "book_fict_soft_west_vaq",
+    "type": "ITEM",
+    "name": {
+      "str": "Vaquero Sun",
+      "str_pl": "copies of Vaquero Sun"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_fict_soft_west_vride",
+    "copy-from": "book_fict_soft_west_vride",
+    "type": "ITEM",
+    "name": {
+      "str": "The Vendetta Riders",
+      "str_pl": "copies of The Vendetta Riders"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "phonebook",
+    "copy-from": "phonebook",
+    "type": "ITEM",
+    "name": {
+      "str": "phone book"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "photo_album",
+    "copy-from": "photo_album",
+    "type": "ITEM",
+    "name": {
+      "str": "photo album"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "plays_book",
+    "copy-from": "plays_book",
+    "type": "ITEM",
+    "name": {
+      "str": "book of plays",
+      "str_pl": "books of plays"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "poetry_book",
+    "copy-from": "poetry_book",
+    "type": "ITEM",
+    "name": {
+      "str": "book of poetry",
+      "str_pl": "books of poetry"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "priest_diary",
+    "copy-from": "priest_diary",
+    "type": "ITEM",
+    "name": {
+      "str": "priest's diary",
+      "str_pl": "priests' diaries"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "record_accounting",
+    "copy-from": "record_accounting",
+    "type": "ITEM",
+    "name": {
+      "str": "corporate accounting ledger"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "record_patient",
+    "copy-from": "record_patient",
+    "type": "ITEM",
+    "name": {
+      "str_sp": "patient treatment records"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "record_weather",
+    "copy-from": "record_weather",
+    "type": "ITEM",
+    "name": {
+      "str_sp": "national weather transcripts"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "story_book",
+    "copy-from": "story_book",
+    "type": "ITEM",
+    "name": {
+      "str": "big book of short stories",
+      "str_pl": "big books of short stories"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "tall_tales",
+    "copy-from": "tall_tales",
+    "type": "ITEM",
+    "name": {
+      "str": "book of tall tales",
+      "str_pl": "books of tall tales"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "visions_solitude",
+    "copy-from": "visions_solitude",
+    "type": "ITEM",
+    "name": {
+      "str": "Visions in Solitude",
+      "str_pl": "copies of Visions in Solitude"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "classic_literature",
+    "copy-from": "classic_literature",
+    "type": "ITEM",
+    "name": {
+      "str": "book of classic literature",
+      "str_pl": "books of classic literature"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "collector_book",
+    "copy-from": "collector_book",
+    "type": "ITEM",
+    "name": {
+      "str": "collector's edition book"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "occult_economicon",
+    "copy-from": "occult_economicon",
+    "type": "ITEM",
+    "name": {
+      "str": "The Economicon of Dobbs",
+      "str_pl": "copies of The Economicon"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "occult_bobliographon",
+    "copy-from": "occult_bobliographon",
+    "type": "ITEM",
+    "name": {
+      "str": "The Bobliographon",
+      "str_pl": "copies of The Bobliographon"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "occult_glimpses",
+    "copy-from": "occult_glimpses",
+    "type": "ITEM",
+    "name": {
+      "str": "Glimpses of Solomon in Yellow",
+      "str_pl": "copies of Solomon in Yellow"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "necronomicon",
+    "copy-from": "necronomicon",
+    "type": "ITEM",
+    "name": {
+      "str": "grimoire"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_judaica_siddur",
+    "copy-from": "book_judaica_siddur",
+    "type": "ITEM",
+    "name": {
+      "str": "Siddur"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_judaica_hardcover",
+    "copy-from": "book_judaica_hardcover",
+    "type": "ITEM",
+    "name": {
+      "str": "Judaica hardcover"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_judaica_softcover",
+    "copy-from": "book_judaica_softcover",
+    "type": "ITEM",
+    "name": {
+      "str": "Judaica softcover"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_ruined",
+    "copy-from": "book_ruined",
+    "type": "ITEM",
+    "name": {
+      "str": "ruined book"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "book_pieces",
+    "copy-from": "book_pieces",
+    "type": "ITEM",
+    "name": {
+      "str_sp": "pieces of books"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "gun_manual",
+    "copy-from": "gun_manual",
+    "type": "ITEM",
+    "name": {
+      "str_sp": "firearm safety and instruction manual"
+    },
+    "price_postapoc": "0 USD"
+  }
+]

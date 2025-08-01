@@ -1,0 +1,112 @@
+[
+  {
+    "id": "atomic_survival",
+    "copy-from": "atomic_survival",
+    "type": "ITEM",
+    "name": {
+      "str": "Survival Under Atomic Attack",
+      "str_pl": "copies of Survival Under Atomic Attack"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "fun_survival",
+    "copy-from": "fun_survival",
+    "type": "ITEM",
+    "name": {
+      "str": "Through the Lens",
+      "str_pl": "copies of Through the Lens"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "mag_dude",
+    "copy-from": "mag_dude",
+    "type": "ITEM",
+    "name": {
+      "str": "Alpha Male Quarterly",
+      "str_pl": "Alpha Male Quarterlies"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "mag_survival",
+    "copy-from": "mag_survival",
+    "type": "ITEM",
+    "name": {
+      "str": "Outdoor Adventures",
+      "str_pl": "issues of Outdoor Adventures"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "manual_survival",
+    "copy-from": "manual_survival",
+    "type": "ITEM",
+    "name": {
+      "str": "Pitching a Tent",
+      "str_pl": "copies of Pitching a Tent"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "pocket_survival",
+    "copy-from": "pocket_survival",
+    "type": "ITEM",
+    "name": {
+      "str": "Pocket Survival Guide",
+      "str_pl": "copies of Pocket Survival Guide"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "survival_book",
+    "copy-from": "survival_book",
+    "type": "ITEM",
+    "name": {
+      "str": "Autobiography of a Mountain Man",
+      "str_pl": "copies of Autobiography of a Mountain Man"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_survival",
+    "copy-from": "textbook_survival",
+    "type": "ITEM",
+    "name": {
+      "str": "Outdoor Survival Guide",
+      "str_pl": "copies of Outdoor Survival Guide"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_botany",
+    "copy-from": "textbook_botany",
+    "type": "ITEM",
+    "name": {
+      "str": "Introduction to Plant Biology",
+      "str_pl": "copies of Introduction to Plant Biology"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "textbook_arthropod",
+    "copy-from": "textbook_arthropod",
+    "type": "ITEM",
+    "name": {
+      "str": "The Wonderful World of Arthropodology",
+      "str_pl": "copies of The Wonderful World of Arthropodology"
+    },
+    "price_postapoc": "0 USD"
+  },
+  {
+    "id": "isherwood_herbal_remedies",
+    "copy-from": "isherwood_herbal_remedies",
+    "type": "ITEM",
+    "name": {
+      "str": "Natural Remedies of New England",
+      "str_pl": "copies of Natural Remedies of New England"
+    },
+    "price_postapoc": "0 USD"
+  }
+]
