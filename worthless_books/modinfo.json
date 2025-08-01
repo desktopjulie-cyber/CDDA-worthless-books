@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "worthless_books",
+    "name": "Books have no trade value",
+    "authors": [ "J32" ],
+    "description": "Reduces the trade value of all books to zero.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ],
+    "path": ""
+  }
+]
